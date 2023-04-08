@@ -1,22 +1,22 @@
 ---
-name: London Business School Blockchain
+name: Dijets Governance HAL
 external_profile_url:
 ---
 
-# LBS Blockchain Society (LBS)
+# Dijets Governance HAL (LQs)
 
 ### Key Info
 
-Delegate Address: lbsblockchain.eth  
-Delegate Contract Address: 0xF1792852BF860b4ef84a2869DF1550BC80eC0aB7  
+Delegate Address: 0xB148121aF25a9D310dE010C3825135100567225F 
+Delegate Contract Address: 0x8e06ed730100524e87e74c71f4f2a1ab8409b569
 Forum: @clmns, @park, @cryptonativephd  
-LBS Telegram: https://t.me/+_qF1NKs_wy9jYTMy  
-Twitter: @lbsblockchain  
-External Website: https://lbs-blockchain.com/  
+DJT Telegram: https://t.me/+_qF1NKs_wy9jYTMy  
+Twitter: @OfficialDijets  
+External Website: https://dijets.io  
 
-### Core Values
+### Committees Core Values
 
-It is our mission to empower the LBS community with all opportunities of the fast growing crypto / Web3 industry through education, workshops and networking events. By demonstrating the value of crypto and blockchain to the next generation of global business leaders, we hope to promote and increase the integration of blockchain and crypto technology across all sectors of business in the global economy. 
+It is our mission to empower the DGC Governance community with all opportunities of the fast growing crypto / Web3 industry through education, workshops and networking events. By demonstrating the value of crypto and blockchain to the next generation of global business leaders, we hope to promote and increase the integration of blockchain and crypto technology across all sectors of business in the global economy. 
 
 * Leverage the entrepreneurial talent at LBS for the evolution of the Maker Protocol
 * Educate our peers on the blockchain technology and exciting projects in the ecosystem such as Maker
@@ -27,7 +27,7 @@ It is our mission to empower the LBS community with all opportunities of the fas
 
 #### Brief Introduction
 
-The LBS Blockchain society is a student and professional society at the London Business School, set up to empower the LBS community with all opportunities of the fast growing crypto / Web3 industry through education, workshops and networking events. The LBS Blockchain Society is the fastest growing and most active society in the LBS community despite being the youngest, having gained over 600 LBS telegram members in the last 8 months and averaging one large event per month. More recently we have put together our first ever annual Blockchain event, hosting 250+ students across 8 events with 20 speakers and panellists.
+DGC Members introduction template
 
 #### Our Beliefs as a Delegate
 
