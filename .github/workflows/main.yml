@@ -1,10 +1,15 @@
+name: IPFS
+
 on:
+  # Triggers the workflow on push or pull request events but only for the "master" branch
   push:
-    branches:
-      - master
-    paths:
-      - governance/delegates/**/*
-      - '!governance/delegates/meta/delegates.json'
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+  workflow_dispatch:
+
+  # Allows you to run this workflow manually from the Actions tab
+
 jobs:
   upload_delegates:
     runs-on: ubuntu-latest
@@ -17,11 +22,11 @@ jobs:
         id: upload
         uses: makerdao-dux/github-action-deploy-delegates@v1.1.17
         with:
-          delegates-folder: 'governance/delegates'
+          delegates-folder: 'governance/delegates/**/*'
           tags-file: 'governance/delegates/meta/tags.json'
           infura-id: ${{ secrets.INFURA_ID }}
           infura-secret: ${{ secrets.INFURA_KEY }}
-          output-file: 'governance/delegates/meta/delegates.json'
+          output-file: '!governance/delegates/meta/delegates.json'
       # Use the output from the `upload` step
       - name: Get the output hash
         run: echo "The IPFS hash was ${{ steps.upload.outputs.hash }}"
