@@ -1,0 +1,5787 @@
+[
+  {
+    "pollId": 16,
+    "title": "Stability Fee Adjustment (August 5 2019)",
+    "type": "single-choice",
+    "tags": [
+      "risk-parameter"
+    ]
+  },
+  {
+    "pollId": 17,
+    "title": "Stability Fee Adjustment - August 12, 2019",
+    "type": "single-choice",
+    "tags": [
+      "risk-parameter"
+    ]
+  },
+  {
+    "pollId": 18,
+    "title": "Collateral Asset Priority for Augur (REP) - August 12, 2019",
+    "type": "single-choice",
+    "tags": [
+      "greenlight",
+      "risk-parameter",
+      "misc-governance"
+    ]
+  },
+  {
+    "pollId": 19,
+    "title": "Collateral Asset Priority for Basic Attention Token (BAT) - August 12, 2019",
+    "type": "single-choice",
+    "tags": [
+      "oracle"
+    ]
+  },
+  {
+    "pollId": 20,
+    "title": "Collateral Asset Priority for DigixDAO (DGD) - August 12, 2019",
+    "type": "single-choice",
+    "tags": [
+      "greenlight",
+      "risk-parameter",
+      "misc-governance"
+    ]
+  },
+  {
+    "pollId": 21,
+    "title": "Collateral Asset Priority for Ether (ETH) - August 12, 2019",
+    "type": "single-choice",
+    "tags": [
+      "oracle"
+    ]
+  },
+  {
+    "pollId": 22,
+    "title": "Collateral Asset Priority for Golem (GNT) - August 12, 2019",
+    "type": "single-choice",
+    "tags": [
+      "greenlight",
+      "risk-parameter",
+      "misc-governance"
+    ]
+  },
+  {
+    "pollId": 23,
+    "title": "Collateral Asset Priority for OmiseGo (OMG) - August 12, 2019",
+    "type": "single-choice",
+    "tags": [
+      "oracle",
+      "oracle-feed"
+    ]
+  },
+  {
+    "pollId": 24,
+    "title": "Collateral Asset Priority for 0x (ZRX) - August 12, 2019",
+    "type": "single-choice",
+    "tags": [
+      "risk-parameter"
+    ]
+  },
+  {
+    "pollId": 25,
+    "title": "Stability Fee Adjustment - August 19, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 26,
+    "title": "Stability Fee Adjustment - August 26, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 27,
+    "title": "Stability Fee Adjustment - September 2, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 30,
+    "title": "Ratify the Interim Risk Team Mandate",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 29,
+    "title": "Ratify the Interim Governance Facilitator Mandate",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 31,
+    "title": "Stability Fee Adjustment - September 9, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 32,
+    "title": "Stability Fee Adjustment - September 16, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 33,
+    "title": "Stability Fee Adjustment - September 23, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 34,
+    "title": "Exponential Rate Stepping for Stability Fee Polls",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 38,
+    "title": "Stability Fee Adjustment - September 30, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 36,
+    "title": "Oracles Incentives Restructuring",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 35,
+    "title": "Responsible Oracle Migration Proposal",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 37,
+    "title": "Ratify the Interim Oracle Team Mandate",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 40,
+    "title": "DeFi Public Feed Proposal",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 41,
+    "title": "Stability Fee Adjustment - October 7, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 42,
+    "title": "Stability Fee Adjustment - October 14, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 43,
+    "title": "Stability Fee Adjustment - October 21, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 44,
+    "title": "Should we keep at least a 10 million Dai buffer in the debt ceiling until the launch of MCD?",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 45,
+    "title": "Stability Fee Adjustment - October 28, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 46,
+    "title": "Stability Fee Adjustment - November 4, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 48,
+    "title": "Migration Risk Construct Proposal",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 49,
+    "title": "Launch Parameters Amendment",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 50,
+    "title": "Stability Fee Adjustment - November 11, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 51,
+    "title": "Sai Stability Fee Adjustment - November 18, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 52,
+    "title": "Sai Stability Fee Adjustment - November 25, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 53,
+    "title": "Dai Savings Rate Adjustment - December 2, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 54,
+    "title": "Dai Stability Fee Adjustment - December 2, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 55,
+    "title": "Sai Stability Fee Adjustment - December 2, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 56,
+    "title": "Debt Ceiling Adjustment - December 3, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 57,
+    "title": "Sai Stability Fee Adjustment - December 9, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 58,
+    "title": "Dai Stability Fee Adjustment - December 9, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 59,
+    "title": "Dai Savings Rate Adjustment - December 9, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 60,
+    "title": "Activate the Governance Security Module - December 9, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 61,
+    "title": "Dai Savings Rate Adjustment - December 16, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 62,
+    "title": "Dai Stability Fee Adjustment - December 16, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 63,
+    "title": "Sai Stability Fee Adjustment - December 16, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 64,
+    "title": "Dai Stability Fee Adjustment - December 23, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 65,
+    "title": "Dai Savings Rate Adjustment - December 23, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 66,
+    "title": "Sai Stability Fee Adjustment - December 23, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 67,
+    "title": "Debt Ceiling Adjustment - December 23, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 68,
+    "title": "Dai Savings Rate Adjustment - December 30, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 70,
+    "title": "Sai Stability Fee Adjustment - December 30, 2019",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 71,
+    "title": "Dai Savings Rate Adjustment - January 6, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 72,
+    "title": "Dai Stability Fee Adjustment - January 6, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 73,
+    "title": "Sai Stability Fee Adjustment - January 6, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 74,
+    "title": "Dai Savings Rate Adjustment - January 13, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 75,
+    "title": "Dai Stability Fee Adjustment - January 13, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 76,
+    "title": "Sai Stability Fee Adjustment - January 13, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 77,
+    "title": "Should we replace the weekly DSR Rate governance poll with a weekly DSR Spread governance poll?",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 79,
+    "title": "Dai Stability Fee Adjustment - January 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 80,
+    "title": "Debt Ceiling Adjustment - January 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 81,
+    "title": "Sai Stability Fee Adjustment - January 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 82,
+    "title": "Dai Savings Rate Spread Adjustment - January 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 83,
+    "title": "Dai Stability Fee Adjustment - January 27, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 84,
+    "title": "Dai Savings Rate Spread Adjustment - January 27, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 85,
+    "title": "Sai Stability Fee Adjustment - January 27, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 86,
+    "title": "Debt Ceiling Adjustment - January 27, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 87,
+    "title": "Dai Savings Rate Spread Adjustment - February 3, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 88,
+    "title": "Dai Stability Fee Adjustment - February 3, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 89,
+    "title": "Sai Stability Fee Adjustment - February 3, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 90,
+    "title": "Sai Stability Fee Adjustment - February 10, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 91,
+    "title": "Dai Stability Fee Adjustment - February 10, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 92,
+    "title": "Dai Savings Rate Spread Adjustment - February 10, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 93,
+    "title": "Debt Ceiling Adjustment - February 10, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 94,
+    "title": "Should we suspend monetary policy votes when there are technical changes to be made to the system?",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 95,
+    "title": "Dai Savings Rate Spread Adjustment - February 17, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 96,
+    "title": "Dai Stability Fee Adjustment - February 17, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 97,
+    "title": "Debt Ceiling Adjustment - February 17, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 98,
+    "title": "Sai Stability Fee Adjustment - February 17, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 99,
+    "title": "Should we reduce the minimum bid increase required for Surplus Auctions to 2%?",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 104,
+    "title": "Adjust DSR Spread Polling Cadence - February 24, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 100,
+    "title": "Dai Stability Fee Adjustment - February 24, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 101,
+    "title": "Dai Savings Rate Spread Adjustment - February 24, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 102,
+    "title": "Sai Stability Fee Adjustment - February 24, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 103,
+    "title": "Debt Ceiling Adjustments - February 24, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 107,
+    "title": "Sai Stability Fee Adjustment - March 2, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 105,
+    "title": "Dai Stability Fee Adjustment - March 2, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 106,
+    "title": "Dai Savings Rate Spread Adjustment - March 2, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 108,
+    "title": "Adjust DSR Spread Polling Cadence - March 2, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 111,
+    "title": "Migration Contract Debt Ceiling Adjustment - March 9, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 109,
+    "title": "Sai Stability Fee Adjustment - March 9, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 110,
+    "title": "Dai Stability Fee Adjustment - March 9, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 112,
+    "title": "Activate the Governance Security Module for SCD - March 9, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 114,
+    "title": "Dai Savings Rate Spread Adjustment - March 16, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 113,
+    "title": "Dai Stability Fee Adjustment - March 16, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 115,
+    "title": "Sai Stability Fee Adjustment - March 16, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 120,
+    "title": "Sai Stability Fee Adjustment - March 23, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 116,
+    "title": "USDC Stability Fee Adjustment - March 23, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 117,
+    "title": "Debt Ceiling Adjustments - March 23, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 118,
+    "title": "Dai Stability Fee Adjustment - March 23, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 119,
+    "title": "Unblock the remaining Debt Auctions - March 23, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 122,
+    "title": "Dai Stability Fee Adjustment - March 30, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 121,
+    "title": "Dai Savings Rate Spread Adjustment - March 30, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 123,
+    "title": "USDC Stability Fee Adjustment - March 30, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 124,
+    "title": "Sai Stability Fee Adjustment - March 30, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 125,
+    "title": "Migration Contract Debt Ceiling Adjustment - March 30, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 126,
+    "title": "Should we initiate the shutdown of the SCD system through an executive vote on April 24th, 2020?",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 128,
+    "title": "Add IRV Ranked Choice Voting to Governance Polls - April 6, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 130,
+    "title": "Sai Stability Fee Adjustment - April 6, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 131,
+    "title": "USDC Stability Fee Adjustment - April 6, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 129,
+    "title": "Dai Stability Fee Adjustment - April 6, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 127,
+    "title": "Vault Compensation Poll - April 06, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 132,
+    "title": "Dai Stability Fee Adjustment - April 13, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 134,
+    "title": "Sai Stability Fee Adjustment - April 13, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 133,
+    "title": "Dai Savings Rate Spread Adjustment - April 13, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 135,
+    "title": "USDC Stability Fee Adjustment - April 13, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 144,
+    "title": "Supplimental USDC Stability Fee Adjustment - April 22, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 136,
+    "title": "Dai Stability Fee Adjustment - April 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 137,
+    "title": "Adjust the Governance Security Module - April 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 138,
+    "title": "MKR Oracle Deactivation in SCD - April 20th, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 139,
+    "title": "Sai Stability Fee Adjustment - April 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 140,
+    "title": "USDC Stability Fee Adjustment - April 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 141,
+    "title": "Oracles - Create BTC/USD Oracle + Whitelist Set Protocol and dYdX - April 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 142,
+    "title": "Oracles - Create ETH/BTC Oracle + Whitelist tBTC - April 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 143,
+    "title": "Oracles - Whitelist Set Protocol on ETH/USD Oracle - April 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 145,
+    "title": "USDC Liquidation Ratio Adjustment - April 22, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 149,
+    "title": "USDC Stability Fee Adjustment - April 27, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 146,
+    "title": "Dai Stability Fee Adjustment - April 27, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 147,
+    "title": "Dai Savings Rate Spread Adjustment - April 27, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 148,
+    "title": "Debt Ceiling Adjustments - April 27, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 150,
+    "title": "Timing Poll to Proceed with the MIPs Ratification Vote - April 27, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 151,
+    "title": "Add WBTC as a Collateral Type - April 28, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 152,
+    "title": "Dai Stability Fee Adjustment - May 4, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 153,
+    "title": "USDC Stability Fee Adjustment - May 4, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 154,
+    "title": "WBTC Stability Fee Adjustment - May 4, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 157,
+    "title": "USDC Stability Fee Adjustment - May 11, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 159,
+    "title": "Adjust the WBTC Debt Ceiling - May 11 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 158,
+    "title": "WBTC Stability Fee Adjustment - May 11, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 160,
+    "title": "Inclusion Poll for Core Personnel Onboarding (Governance Facilitator) - May 11, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 155,
+    "title": "Dai Savings Rate Spread Adjustment - May 11, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 156,
+    "title": "Dai Stability Fee Adjustment - May 11, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 163,
+    "title": "WBTC Stability Fee Adjustment - May 18, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 165,
+    "title": "Change the Stability Fee Structure - May 18 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 161,
+    "title": "Dai Stability Fee Adjustment - May 18, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 162,
+    "title": "USDC Stability Fee Adjustment - May 18, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 164,
+    "title": "Governance Poll for Core Personnel Onboarding (Governance Facilitator) - May 18, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 178,
+    "title": "Base Rate Adjustment - May 25, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 167,
+    "title": "Add TUSD as a Collateral Type - May 25, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 180,
+    "title": "Should we add TUSD to the Maker Protocol? - May 25, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 179,
+    "title": "Dai Savings Rate Spread Adjustment - May 25, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 166,
+    "title": "Add USDC-B as a Collateral Type - May 25, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 182,
+    "title": "Should Monetary Policy Votes Use Ranked Choice Voting? - June 01, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 181,
+    "title": "Base Rate Adjustment - June 1, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 184,
+    "title": "Debt Ceiling Adjustment - June 1, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 176,
+    "title": "Should we add CHZ to the Maker Protocol? - May 25, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 168,
+    "title": "Should we add tBTC to the Maker Protocol? - May 25, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 169,
+    "title": "Should we add ZRX to the Maker Protocol? - May 25, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 170,
+    "title": "Should we add UNI-V1-DAI to the Maker Protocol? - May 25, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 177,
+    "title": "Should we add CF-DROP to the Maker Protocol? - May 25, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 175,
+    "title": "Should we add MANA to the Maker Protocol? - May 25, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 174,
+    "title": "Should we add FTM to the Maker Protocol? - May 25, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 173,
+    "title": "Should we add FIAT to the Maker Protocol? - May 25, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 172,
+    "title": "Should we add DMM to the Maker Protocol? - May 25, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 171,
+    "title": "Should we add PC-DROP to the Maker Protocol? - May 25, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 186,
+    "title": "Dai Savings Rate Spread Adjustment - June 8, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 192,
+    "title": "MIP4c2-SP4: Inclusion Poll for MIP12 Amendments - June 8, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 188,
+    "title": "MIP14: Inclusion Poll for Protocol DAI Transfer - June 8, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 193,
+    "title": "MIP7c3-SP2: Inclusion Poll for Onboarding a Risk Domain Team - June 8, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 187,
+    "title": "MIP13: Inclusion Poll for Declarations of Intent - June 8, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 191,
+    "title": "MIP4c2-SP3: Inclusion Poll for MIP9 Amendments - June 8, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 190,
+    "title": "MIP4c2-SP2: Inclusion Poll for MIP8 Amendments - June 8, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 189,
+    "title": "MIP4c2-SP1: Inclusion Poll for MIP6 Amendments - June 8, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 185,
+    "title": "Base Rate Adjustment - June 8, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 199,
+    "title": "MIP10c15-SP2 Governance Poll to Appoint Infura as Oracle Light Feed - June 15, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 194,
+    "title": "Base Rate Adjustment - June 15, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 195,
+    "title": "Add KNC as a Collateral Type - June 15, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 196,
+    "title": "Add ZRX as a Collateral Type - June 15, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 197,
+    "title": "Monthly MIPs Governance Poll - June 15, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 198,
+    "title": "MIP10c15-SP1 Governance Poll to Appoint Kyber Network as Oracle Light Feed - June 15, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 200,
+    "title": "MIP10c15-SP3 Governance Poll to Appoint Etherscan as Oracle Light Feed - June 15, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 201,
+    "title": "MIP10c15-SP4 Governance Poll to Appoint Gitcoin as Oracle Light Feed - June 15, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 202,
+    "title": "MIP10c9-SP1 Governance Poll to Whitelist DeFi Saver on ETHUSD Oracle - June 15, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 203,
+    "title": "MIP10c9-SP2 Governance Poll to Whitelist DeFi Saver on BATUSD Oracle - June 15, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 204,
+    "title": "MIP10c9-SP3 Governance Poll to Whitelist DeFi Saver on BTCUSD Oracle - June 15, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 205,
+    "title": "MIP10c9-SP4 Governance Poll to Whitelist MCDEX on ETHUSD Oracle - June 15, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 206,
+    "title": "Base Rate Adjustment - June 22, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 207,
+    "title": "Dai Savings Rate Spread Adjustment - June 22, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 216,
+    "title": "Adjust the WBTC Debt Ceiling and Risk Premium - June 29, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 215,
+    "title": "Base Rate Adjustment - June 29, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 213,
+    "title": "Should we add WKT to the Maker Protocol? - June 22, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 208,
+    "title": "Should we add ENJ to the Maker Protocol? - June 22, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 209,
+    "title": "Should we add LEND to the Maker Protocol? - June 22, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 211,
+    "title": "Should we add MATIC to the Maker Protocol? - June 22, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 210,
+    "title": "Should we add LINK to the Maker Protocol? - June 22, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 214,
+    "title": "Should we add KNC to the Maker Protocol? - June 22, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 212,
+    "title": "Should we add PAXG to the Maker Protocol? - June 22, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 218,
+    "title": "Dai Savings Rate Spread Adjustment - July 6, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 217,
+    "title": "Base Rate Adjustment - July 6, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 222,
+    "title": "Inclusion Poll for MIP16: The Weekly Governance Cycle - July 13, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 227,
+    "title": "Inclusion Poll for MIP4c2-SP5: MIP12 Amendments - July 13, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 223,
+    "title": "Inclusion Poll for MIP17: Weekly Actual Debt Ceiling and Actual Risk Premium Adjustments - July 13, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 224,
+    "title": "Inclusion Poll for MIP18: Meta-Parameter Adjustments - July 13, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 226,
+    "title": "Inclusion Poll for MIP19: Liquidations System 1.1 Upgrade - July 13, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 225,
+    "title": "Inclusion Poll for MIP18c4-SP1: Subproposal for Modifying Meta-Parameter Adjustments (Removing the DSR Spread) - July 13, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 220,
+    "title": "Vault Compensation Plan Approval Poll",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 219,
+    "title": "Base Rate Adjustment - July 13, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 221,
+    "title": "Inclusion Poll for MIP12c2-SP3: Domain Work Requirements for the Onboarding of MANA - July 13, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 242,
+    "title": "Monthly MIPs Governance Poll - July 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 239,
+    "title": "MIP10c15-SP5 Governance Poll to Appoint Argent as Oracle Light Feed - July 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 240,
+    "title": "Base Rate Adjustment - July 20, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 241,
+    "title": "Dai Savings Rate Spread Adjustment - July 20, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 243,
+    "title": "PSM Implementation Poll - July 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 247,
+    "title": "MIP10c9-SP5 Governance Poll to Whitelist dYdX on ETHUSD Oracle - July 27, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 244,
+    "title": "Base Rate Adjustment - July 27, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 245,
+    "title": "Adjust the TUSD Debt Ceiling - July 27, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 246,
+    "title": "Adjust the WBTC Debt Ceiling - July 27, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 231,
+    "title": "MIP9 Community Greenlight Poll - HUSD - July 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 232,
+    "title": "MIP9 Community Greenlight Poll - renBTC - July 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 233,
+    "title": "MIP9 Community Greenlight Poll - EURS (Stasis Euro) - July 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 234,
+    "title": "MIP9 Community Greenlight Poll - PAX (Paxos Standard) - July 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 235,
+    "title": "MIP9 Community Greenlight Poll - LRC (Loopring Token) - July 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 236,
+    "title": "MIP9 Community Greenlight Poll - AMPL (Ampleforth Token) - July 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 237,
+    "title": "MIP9 Community Greenlight Poll - USDT (Tether USD ERC20) - July 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 238,
+    "title": "MIP9 Community Greenlight Poll - WiV - July 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 228,
+    "title": "MIP9 Community Greenlight Poll - COMP (Compound) - July 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 229,
+    "title": "MIP9 Community Greenlight Poll - BNT (Bancor Network Token) - July 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 230,
+    "title": "MIP9 Community Greenlight Poll - C20 (Crypto20) - July 20, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 248,
+    "title": "Base Rate Adjustment - August 3, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 249,
+    "title": "Base Rate Adjustment - August 10, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 251,
+    "title": "Adjust the BAT-A Risk Premium - August 10, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 256,
+    "title": "Inclusion Poll for MIP13c3-SP1 - Declaration of Intent (Forward Guidance) - August 10, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 255,
+    "title": "Inclusion Poll for MIP12c2-SP4 - LRC Collateral Onboarding - August 10, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 254,
+    "title": "Inclusion Poll for MIP0c13-SP1 - Subproposal for Core Personnel Offboarding - August 10, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 253,
+    "title": "MIP10c15-SP6 Governance Poll to Appoint MyCrypto as Oracle Light Feed - August 10, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 252,
+    "title": "Increase the Surplus Auction Buffer to 2 Million DAI - August 10, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 257,
+    "title": "Liquidations 1.2 Upgrade - August 10, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 250,
+    "title": "Adjust the Dust Parameter - August 10, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 272,
+    "title": "Adjust the ETH-A Debt Ceiling - August 17, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 258,
+    "title": "Base Rate Adjustment - August 17, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 259,
+    "title": "Monthly MIPs Governance Poll - August 17, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 273,
+    "title": "Base Rate Adjustment - August 24, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 274,
+    "title": "Add USDT as a Collateral Type - August 24, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 275,
+    "title": "Add PAX as a Collateral Type - August 24, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 276,
+    "title": "Adjust the WBTC-A Risk Premium - August 24, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 277,
+    "title": "Adjust the USDC-A Debt Ceiling - August 24, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 278,
+    "title": "MIP10c9-SP6 Governance Poll to Whitelist yEarn Finance on ETHUSD Oracle - August 25, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 263,
+    "title": "MIP9 Community Greenlight Poll - HBTC (Huobi Global BTC) - August 17, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 260,
+    "title": "MIP9 Community Greenlight Poll - BUSD (Binance USD) - August 17, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 261,
+    "title": "MIP9 Community Greenlight Poll - CHI (Chi Gastoken) - August 17, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 262,
+    "title": "MIP9 Community Greenlight Poll - GUSD (Gemini USD) - August 17, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 264,
+    "title": "MIP9 Community Greenlight Poll - HTC-DROP (Harbor Trade Credit DROP) - August 17, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 265,
+    "title": "MIP9 Community Greenlight Poll - NS-DROP (New Silver DROP) - August 17, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 266,
+    "title": "MIP9 Community Greenlight Poll - REN (REN) - August 17, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 267,
+    "title": "MIP9 Community Greenlight Poll - TAUD (TrueAUD) - August 17, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 268,
+    "title": "MIP9 Community Greenlight Poll - TCAD (TrueCAD) - August 17, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 269,
+    "title": "MIP9 Community Greenlight Poll - TGBP (TrueGBP) - August 17, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 270,
+    "title": "MIP9 Community Greenlight Poll - UNI-V2-DAI-ETH (UniswapV2 Dai-Eth Liquidity Token) - August 17, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 271,
+    "title": "MIP9 Community Greenlight Poll - UNI-V2-USDC-ETH (UniswapV2 USDC-ETH Liquidity Token) - August 17, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 279,
+    "title": "Base Rate Adjustment - August 31, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 280,
+    "title": "Adjust the WBTC-A Debt Ceiling - August 31, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 281,
+    "title": "Base Rate Adjustment - September 7, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 283,
+    "title": "MIP10c9-SP9 Governance Poll to Whitelist tBTC on ETHBTC Oracle - September 7, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 293,
+    "title": "Inclusion Poll for MIP15 - Dark Spell Mechanism - September 14, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 294,
+    "title": "Inclusion Poll for MIP13c3-SP2 - Declaration of Intent - Dai Flash Mint Module - September 14, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 295,
+    "title": "Base Rate Adjustment - September 14, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 297,
+    "title": "Reduce USDC-A and PAX-A Liquidation Ratio - September 14, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 296,
+    "title": "Approve New TUSD Implementation with Original Risk Parameters - September 14, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 288,
+    "title": "Inclusion Poll for MIP12c2-SP5 - COMP Collateral Onboarding - September 14, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 290,
+    "title": "Inclusion Poll for MIP12c2-SP4 - LRC Collateral Onboarding - September 14, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 291,
+    "title": "Inclusion Poll for MIP7c3-SP3 - Domain Team Onboarding (Risk) - September 14, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 292,
+    "title": "Inclusion Poll for MIP7c3-SP4 - Domain Team Onboarding (Smart Contracts) - September 14, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 287,
+    "title": "Quantitative easing aka Manual PSM - September 14, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 289,
+    "title": "Inclusion Poll for MIP12c2-SP6 - LINK Collateral Onboarding - September 14, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 282,
+    "title": "Vault Compensation Plan Approval Poll - September 7, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 285,
+    "title": "Vault Compensation Plan Approval Poll - September 8, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 300,
+    "title": "Whitelist Kyber on ETHUSD Medianizer Oracle (MIP10c9-SP11) - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 322,
+    "title": "Adjust the BAT-A Debt Ceiling - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 321,
+    "title": "Monthly MIPs Governance Poll - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 320,
+    "title": "Adjust the ETH-A Risk Premium - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 304,
+    "title": "Prioritising the onboarding of Real World Asset collateral in the short term - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 303,
+    "title": "Base Rate Adjustment - September 21, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 302,
+    "title": "Whitelist DDEX on BTCUSD Medianizer Oracle (MIP10c9-SP8) - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 299,
+    "title": "Whitelist Yearn Finance on BTCUSD OSM Oracle (MIP10c9-SP10) - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 301,
+    "title": "Whitelist Opyn on ETHUSD Medianizer Oracle (MIP10c9-SP7) - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 298,
+    "title": "Update the Data Model of the ETHUSD Oracle (MIP10c7-SP1) - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 323,
+    "title": "Base Rate Adjustment - September 28, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 324,
+    "title": "Adjust the PAXUSD-A Debt Ceiling - September 28, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 316,
+    "title": "Community Greenlight Poll - cDAI (Compound DAI) - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 305,
+    "title": "Community Greenlight Poll - ARCA (ArCoin) - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 306,
+    "title": "Community Greenlight Poll - BAL (Balancer Token) - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 307,
+    "title": "Community Greenlight Poll - BPT-80BAL-20WETH (80% BAL 20% ETH Balancer Pool Token) - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 308,
+    "title": "Community Greenlight Poll - CAT (ShuttleOne Credit Application Token) - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 309,
+    "title": "Community Greenlight Poll - CGT (CACHE Gold) - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 310,
+    "title": "Community Greenlight Poll - MOONI-ETH-USDC (Mooniswap ETH-USDC Liquidity Pool) - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 311,
+    "title": "Community Greenlight Poll - MOONI-ETH-USDT (Mooniswap ETH-USDT Liquidity Pool) - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 312,
+    "title": "Community Greenlight Poll - MOONI-ETH-WBTC (Mooniswap ETH-WBTC Liquidity Pool) - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 313,
+    "title": "Community Greenlight Poll - REINNO (REINNO) - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 314,
+    "title": "Community Greenlight Poll - UMA (UMA) - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 315,
+    "title": "Community Greenlight Poll - YFI (yearn.finance) - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 317,
+    "title": "Community Greenlight Poll - renBCH (renBCH) - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 318,
+    "title": "Community Greenlight Poll - renZEC (renZEC) - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 319,
+    "title": "Community Greenlight Poll - wNXM (Wrapped NXM) - September 21, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 326,
+    "title": "Take a more Flexible and Transparent Approach to Collateral Onboarding  - October 5, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 327,
+    "title": "Add an ETH-B Vault Type - October 5, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 325,
+    "title": "Base Rate Adjustment - October 5, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 337,
+    "title": "Inclusion Poll for Real World Assets - Off-Chain Asset Backed Lender (MIP21)- October 12, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 328,
+    "title": "Base Rate Adjustment - October 12, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 329,
+    "title": "Add YFI as a Collateral Type - October 12, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 336,
+    "title": "Inclusion Poll for Target Price Adjustment Module (Vox) (MIP20)- October 12, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 335,
+    "title": "Inclusion Poll for Protocol DAI Transfer (MIP14)- October 12, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 334,
+    "title": "Inclusion Poll for Declaration of Intent - Maker to work on onboarding Centrifuge Collateral (MIP13c3-SP5)- October 12, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 331,
+    "title": "Rates V2 Poll - October 12, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 333,
+    "title": "Inclusion Poll for Declaration of Intent - Off-Chain Asset Backed Lender to onboard Real World Assets (MIP13c3-SP4)- October 12, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 330,
+    "title": "Add BAL as a Collateral Type - October 12, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 332,
+    "title": "Inclusion Poll for Declaration of Intent - Strategic reserves fund (MIP13c3-SP3)- October 12, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 339,
+    "title": "Inclusion Poll for Domain Structure and Roles (MIP23)- October 12, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 338,
+    "title": "Inclusion Poll for Centrifuge Direct Liquidation Module (MIP22)- 12 October, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 351,
+    "title": "Whitelist B.Protocol on ETHUSD Medianizer Oracle (MIP10c9-SP12) - October 19, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 352,
+    "title": "Whitelist B.Protocol on ETHUSD Medianizer Oracle Security Module (MIP10c9-SP13) - October 19, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 353,
+    "title": "Increase the Surplus Auction Buffer - October 19, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 354,
+    "title": "Approve Maker Representatives - October 19, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 355,
+    "title": "Monthly MIPs Governance Poll - October 19, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 357,
+    "title": "Add PAXG as a Collateral Type - October 26, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 356,
+    "title": "Add GUSD as a Collateral Type - October 26, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 341,
+    "title": "Community Greenlight Poll - cUSDC (Compound USDC cToken) - October 19, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 342,
+    "title": "Community Greenlight Poll - CRO (Crypto.com Coin) - October 19, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 343,
+    "title": "Community Greenlight Poll - CRV (Curve DAO Token) - October 19, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 344,
+    "title": "Community Greenlight Poll - KF-DROP (Kickfurther DROP) - October 19, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 345,
+    "title": "Community Greenlight Poll - OMG (OMG Network) - October 19, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 346,
+    "title": "Community Greenlight Poll - OST-1 (UPRETS Oosten Fund I LP) - October 19, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 347,
+    "title": "Community Greenlight Poll - UNI (Uniswap) - October 19, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 348,
+    "title": "Community Greenlight Poll - UNI-V2-WBTC-ETH (Uniswap WBTC-WETH Liquidity Tokens) - October 19, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 349,
+    "title": "Community Greenlight Poll - UNI-V2-USDT-ETH (Uniswap USDT-WETH Liquidity Tokens) - October 19, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 350,
+    "title": "Community Greenlight Poll - yUSD (yyCRV) - October 19, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 340,
+    "title": "Community Greenlight Poll - aUSDC (Aave USDC) - October 19, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 359,
+    "title": "Stability Fee Adjustment Proposal - November 2, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 358,
+    "title": "Stablecoin Action Plan - November 2, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 362,
+    "title": "Adjust the ETH-B Debt Ceiling - November 2, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 365,
+    "title": "Adjust the USDT-A Debt Ceiling - November 2, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 361,
+    "title": "Adjust the MANA-A Debt Ceiling - November 2, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 364,
+    "title": "Adjust the WBTC-A Debt Ceiling - November 2, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 363,
+    "title": "Adjust the ETH-A Debt Ceiling - November 2, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 360,
+    "title": "Adjust the LINK-A Debt Ceiling - November 2, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 367,
+    "title": "Inclusion Poll for Operational Support Domain Definition (MIP28)- November 9, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 366,
+    "title": "Inclusion Poll for Debt Ceiling Instant Access Module (MIP27)- November 9, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 368,
+    "title": "Inclusion Poll for Operational Support Domain Facilitator Onboarding (Amy Jung) (MIP28c7-SP1)- November 9, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 369,
+    "title": "Inclusion Poll for Calendar Exceptions (MIP4c2-SP6)- November 9, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 370,
+    "title": "Inclusion Poll for Flash Mint Module (MIP25)- November 9, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 371,
+    "title": "Inclusion Poll for Emergency Voting System (MIP24)- November 9, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 372,
+    "title": "Inclusion Poll for Declaration of Intent - SourceCred Funding (MIP13c3-SP6)- November 9, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 373,
+    "title": "Stablecoin Action Plan - November 9, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 374,
+    "title": "Burning Borrowed, Attacking MKR in the Event of Protocol Redeployment - November 9, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 379,
+    "title": "Lower Stablecoin Stability Fees - November 16, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 378,
+    "title": "Monthly MIPs Governance Poll - November 16, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 380,
+    "title": "Adjust the Dust Parameter - November 16, 2020",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 377,
+    "title": "Adjust the YFI-A Debt Ceiling - November 16, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 381,
+    "title": "Accelerate the Peg Stability Module Launch - November 23, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 376,
+    "title": "Community Greenlight Poll - YFII (DFI.money) - November 16, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 375,
+    "title": "Community Greenlight Poll - NEXO (NEXO) - November 16, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 385,
+    "title": "Add RWA-001 (6s Capital) as a Collateral Type - November 30, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 383,
+    "title": "Add UNI (Uniswap) as a Collateral Type - November 30, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 382,
+    "title": "Whitelist Yearn Finance on YFIUSD Oracle (MIP10c9-SP14) - November 30, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 384,
+    "title": "Add renBTC as a Collateral Type - November 30, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 386,
+    "title": "Adjust the ETH-B Debt Ceiling - December 7, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 387,
+    "title": "Adjust Stablecoin Stability Fees - December 7, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 388,
+    "title": "Adjust YFI-A System Parameters - December 7, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 389,
+    "title": "ETH-B Debt Ceiling Instant Access Module - December 7, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 390,
+    "title": "Add AAVE (Aave) as a Collateral Type - December 7, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 391,
+    "title": "Add UNI-V2-DAI-ETH (UniswapV2 DAI-ETH LP Token) as a Collateral Type - December 7, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 392,
+    "title": "Add UNI-V2-USDC-ETH (UniswapV2 USDC-ETH LP Token) as a Collateral Type - December 7, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 396,
+    "title": "Whitelist Gnosis on ETHUSD Oracle (MIP10c9-SP15) - December 14, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 398,
+    "title": "Rates Proposal - December 14, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 397,
+    "title": "USDC Peg Stability Module Parameters - December 14, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 393,
+    "title": "Community Greenlight Poll - DPI (DeFi Pulse Index) - December 14, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 394,
+    "title": "Community Greenlight Poll - WZEC (Wrapped Zcash) - December 14, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 395,
+    "title": "Community Greenlight Poll - WFIL (Wrapped Filecoin) - December 14, 2020",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 404,
+    "title": "Inclusion Poll for CropJoin - Farmable cUSDC Adaptor (MIP30)- January 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 405,
+    "title": "Inclusion Poll for Peg Stability Module (MIP29)- January 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 406,
+    "title": "Inclusion Poll for Onboarding JuanJuan to the Operational Support Domain (MIP28c7-SP2)- January 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 407,
+    "title": "Inclusion Poll for Onboarding Sébastien Derivaux to the Risk Domain (MIP7c3-SP5)- January 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 409,
+    "title": "Inclusion Poll for Declaration of Intent - Governance Communications Domain (MIP13c3-SP7)- January 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 408,
+    "title": "Inclusion Poll for Onboarding Sam MacPherson to the Smart Contracts Domain (MIP7c3-SP6)- January 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 412,
+    "title": "Adjust FLAP Auction Parameters - January 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 411,
+    "title": "Increase the System Surplus Buffer - January 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 410,
+    "title": "Inclusion Poll for Declaration of Intent - Maker Protocol Cover with Nexus Mutual (MIP13c3-SP8)- January 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 399,
+    "title": "Investigate Implementation of a WBTC-B Vault-type with a lower LR - January 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 400,
+    "title": "Whitelist Gnosis on Multiple Oracles - January 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 401,
+    "title": "Whitelist Set Protocol on Multiple Oracles - January 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 402,
+    "title": "Rates Proposal - January 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 403,
+    "title": "Add UNI-V2-WBTC-ETH (UniswapV2 WBTC-ETH LP Token) as a Collateral Type - January 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 429,
+    "title": "Vault Compensation Working Group Payment - January 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 433,
+    "title": "Monthly MIPs Governance Poll - January 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 432,
+    "title": "Whitelist Instadapp on ETHUSD Oracle (MIP10c9-SP26) - January 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 431,
+    "title": "Increase the Dust Parameter - January 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 423,
+    "title": "Increase the ETH-A Debt Ceiling - January 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 424,
+    "title": "Decrease the TUSD-A Debt Ceiling - January 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 425,
+    "title": "Increase the WBTC-A Debt Ceiling - January 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 426,
+    "title": "Increase the LINK-A Debt Ceiling - January 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 427,
+    "title": "Decrease the BAT-A Debt Ceiling - January 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 428,
+    "title": "Increase the MANA-A Debt Ceiling - January 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 430,
+    "title": "Adopt the Debt Ceiling Instant Access Module (DC-IAM) for use with current and future vault-types - January 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 434,
+    "title": "Add NS-DROP (New Silver DROP) as a Collateral Type - January 25, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 416,
+    "title": "Community Greenlight Poll - stETH (LidoDAO Staked Ether) - January 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 417,
+    "title": "Community Greenlight Poll - UNI-V2-DAI-USDC (UniswapV2 DAI-USDC Liquidity Token) - January 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 418,
+    "title": "Community Greenlight Poll - UNI-V2-DAI-USDT (UniswapV2 DAI-USDT Liquidity Token) - January 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 419,
+    "title": "Community Greenlight Poll - BPT-50WBTC-50WETH (50% WBTC 50% ETH Balancer Pool Token) - January 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 420,
+    "title": "Community Greenlight Poll - renFIL (RenVM Filecoin) - January 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 421,
+    "title": "Community Greenlight Poll - UNI-V2-DAI-WBTC (UniswapV2 DAI-WBTC Liquidity Token) - January 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 422,
+    "title": "Community Greenlight Poll - UNI-V2-DAI-YFI (UniswapV2 DAI-YFI Liquidity Token) - January 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 414,
+    "title": "Community Greenlight Poll - P1-DROP (Peoples Company DROP) - January 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 413,
+    "title": "Community Greenlight Poll - WFIL (Wrapped Filecoin) - January 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 415,
+    "title": "Community Greenlight Poll - STAKE (xDAI STAKE) - January 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 437,
+    "title": "Investigate Implementation of an ETH-C Vault-type with a higher LR - February 1, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 438,
+    "title": "Create Multiple Oracles for dYdX on Starkware - February 1, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 435,
+    "title": "Add UNI-V2-DAI-USDC (UniswapV2 DAI-USDC LP Token) as a Collateral Type - February 1, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 436,
+    "title": "Add UNI-V2-ETH-USDT (UniswapV2 ETH-USDT LP Token) as a Collateral Type - February 1, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 443,
+    "title": "Set WBTC-A Debt Ceiling Instant Access Module Parameters - February 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 439,
+    "title": "Rates Proposal - February 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 440,
+    "title": "Add UNI-V2-UNI-ETH (UniswapV2 UNI-ETH LP Token) as a Collateral Type - February 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 441,
+    "title": "Add UNI-V2-LINK-ETH (UniswapV2 LINK-ETH LP Token) as a Collateral Type - February 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 442,
+    "title": "Interim DAO Budget - February 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 444,
+    "title": "Set LINK-A Debt Ceiling Instant Access Module Parameters - February 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 445,
+    "title": "Set UNI-A Debt Ceiling Instant Access Module Parameters - February 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 446,
+    "title": "Set COMP-A Debt Ceiling Instant Access Module Parameters - February 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 447,
+    "title": "Set YFI-A Debt Ceiling Instant Access Module Parameters - February 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 448,
+    "title": "Set AAVE-A Debt Ceiling Instant Access Module Parameters - February 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 466,
+    "title": "Set Debt Ceiling Instant Access Module Parameters for Multiple Vault Types - February 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 465,
+    "title": "Increase the ETH-A Maximum Debt Ceiling - February 15, 2021",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 463,
+    "title": "Increase the System Surplus Buffer - February 15, 2021",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 461,
+    "title": "Add UNI-V2-WBTC-DAI (UniswapV2 WBTC-DAI LP Token) as a Collateral Type - February 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 462,
+    "title": "Add UNI-V2-AAVE-ETH (UniswapV2 AAVE-ETH LP Token) as a Collateral Type - February 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 464,
+    "title": "Dai Savings Rate Adjustment - February 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 471,
+    "title": "Rates Proposal - February 22, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 469,
+    "title": "Lower PSM-USDC-A tout Parameter - February 22, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 468,
+    "title": "Initial Flash Mint Module Fee - February 22, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 467,
+    "title": "Add UNI-V2-DAI-USDT (UniswapV2 DAI-USDT LP Token) as a Collateral Type - February 22, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 470,
+    "title": "Decrease the Stablecoin Vault Debt Ceilings - February 22, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 459,
+    "title": "Community Greenlight Poll - UNI-V2-LRC-ETH (UniswapV2 LRC-ETH Liquidity Token) - February 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 449,
+    "title": "Community Greenlight Poll - SB-LDB (SolidBlock London Digital Bonds) - February 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 450,
+    "title": "Community Greenlight Poll - FFT1-DROP (Fortunafi DROP) - February 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 451,
+    "title": "Community Greenlight Poll - GLM (Golem) - February 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 452,
+    "title": "Community Greenlight Poll - REINNO (REINNO Stablecoin) - February 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 454,
+    "title": "Community Greenlight Poll - UNI-V2-COMP-ETH (UniswapV2 COMP-ETH Liquidity Token) - February 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 453,
+    "title": "Community Greenlight Poll - renDOGE (RenVM Dogecoin) - February 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 456,
+    "title": "Community Greenlight Poll - UNI-V2-DAI-COMP (UniswapV2 DAI-COMP Liquidity Token) - February 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 455,
+    "title": "Community Greenlight Poll - UNI-V2-BAT-DAI (UniswapV2 BAT-DAI Liquidity Token) - February 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 457,
+    "title": "Community Greenlight Poll - UNI-V2-LINK-DAI (UniswapV2 LINK-DAI Liquidity Token) - February 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 458,
+    "title": "Community Greenlight Poll - UNI-V2-UNI-DAI (UniswapV2 UNI-DAI Liquidity Token) - February 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 460,
+    "title": "Community Greenlight Poll - UNI-V2-YFI-ETH (UniswapV2 YFI-ETH Liquidity Token) - February 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 473,
+    "title": "Collateral Auction Parameter Updates - March 1, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 472,
+    "title": "Add ETH-C as a new Vault Type - March 1, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 475,
+    "title": "Increase ETH-A Target Available Debt (`gap`) Parameter - March 1, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 474,
+    "title": "MakerDAO Supports EIP1559 - March 1, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 478,
+    "title": "Inclusion Poll for Liquidations 2.0 (LIQ-2.0) - Liquidation System Redesign (MIP45) - March 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 482,
+    "title": "Inclusion Poll for Risk Core Unit (RISK-001) MIP Set - March 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 483,
+    "title": "Inclusion Poll for Governance Core Unit (GOV-001) MIP Set - March 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 484,
+    "title": "Inclusion Poll for Keg Streaming Payments Module (MIP34 and MIP48) MIP Set - March 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 485,
+    "title": "Rates Proposal - March 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 477,
+    "title": "Inclusion Poll for Term Lending Module (TLM) (MIP43) - March 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 476,
+    "title": "Inclusion Poll for Core Unit MIP Set (MIP38-41 and Subproposals) - March 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 481,
+    "title": "Inclusion Poll for Real-World Finance Core Unit (RWF-001) MIP Set - March 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 480,
+    "title": "Inclusion Poll for MakerDAO Multisignature Wallet Management (MIP47) - March 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 479,
+    "title": "Inclusion Poll for Parameter Proposal Groups (MIP46) - March 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 495,
+    "title": "Monthly MIPs Governance Poll - March 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 496,
+    "title": "Optimism DAI Bridge - March 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 497,
+    "title": "Increase the ETH-A Maximum Debt Ceiling - March 15, 2021",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 498,
+    "title": "Increase the WBTC-A Maximum Debt Ceiling - March 15, 2021",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 499,
+    "title": "Increase the Dust Parameter for Most Vault Types - March 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 504,
+    "title": "Increase Debt Ceiling and enable DC-IAM for UNIV2USDCETH-A - March 22, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 505,
+    "title": "Increase Debt Ceiling and enable DC-IAM for UNIV2DAIUSDC-A - March 22, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 501,
+    "title": "Increase the Dust Parameter for ETH-B Vault Type - March 22, 2021",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 502,
+    "title": "Adjust the Bump Parameter - March 22, 2021",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 503,
+    "title": "Increase Debt Ceiling and enable DC-IAM for UNIV2DAIETH-A - March 22, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 488,
+    "title": "Community Greenlight Poll - CurveLP-cDAI-cUSDC (Curve cDAI-cUSDC Liquidity Token) - March 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 489,
+    "title": "Community Greenlight Poll - CurveLP-renBTC-WBTC (Curve renBTC-WBTC Liquidity Token) - March 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 490,
+    "title": "Community Greenlight Poll - SB-BFDC (SolidBlock BeachFront Digital Coin) - March 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 491,
+    "title": "Community Greenlight Poll - SNX (Synthetix) - March 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 492,
+    "title": "Community Greenlight Poll - SolarX (Uprets/SolarX REIT) - March 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 493,
+    "title": "Community Greenlight Poll - sUSD (Synthetix USD) - March 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 494,
+    "title": "Community Greenlight Poll - xSUSHI (Sushibar) - March 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 486,
+    "title": "Community Greenlight Poll - aAAVE (Aave AAVE) - March 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 487,
+    "title": "Community Greenlight Poll - aWETH (Aave wETH) - March 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 507,
+    "title": "Increase the COMP-A Maximum Debt Ceiling - March 29, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 506,
+    "title": "Increase the YFI-A Maximum Debt Ceiling - March 29, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 509,
+    "title": "Increase the PSM-USDC-A Debt Ceiling - March 29, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 508,
+    "title": "Increase the ZRX-A Maximum Debt Ceiling - March 29, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 512,
+    "title": "Add LINK-A to Liquidations 2.0 Framework - April 5, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 511,
+    "title": "Appoint DeFi Saver as Oracle Light Feed (MIP10c14-SP7) - April 5, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 510,
+    "title": "Increase the System Surplus Buffer - April 5, 2021",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 520,
+    "title": "Inclusion Poll for MIP0 Amendments (MIP4c2-SP13) - April 12, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 513,
+    "title": "Petition Letter to a16z - April 12, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 514,
+    "title": "Parameter Changes Proposal - MakerDAO Open Market Committee - April 12, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 515,
+    "title": "Inclusion Poll for the Protocol Engineering Core Unit MIP Set - April 12, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 516,
+    "title": "Inclusion Poll for the Content Production Core Unit MIP Set - April 12, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 517,
+    "title": "Inclusion Poll for the MakerDAO Shop Core Unit MIP Set - April 12, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 518,
+    "title": "Inclusion Poll for the Growth Core Unit MIP Set - April 12, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 519,
+    "title": "Inclusion Poll for Declaration of Intent - eurDAI (MIP13c3-SP10) - April 12, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 521,
+    "title": "Inclusion Poll for MIP4 Amendments (MIP4c2-SP7) - April 12, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 522,
+    "title": "Inclusion Poll for MIP9 Amendments (MIP4c2-SP8) - April 12, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 523,
+    "title": "Monthly MIPs Governance Poll - April 19, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 524,
+    "title": "Add YFI-A to Liquidations 2.0 Framework - April 19, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 535,
+    "title": "Add ETH-C to Liquidations 2.0 Framework - April 26, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 534,
+    "title": "Add ETH-B to Liquidations 2.0 Framework - April 26, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 533,
+    "title": "Add ETH-A to Liquidations 2.0 Framework - April 26, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 532,
+    "title": "Add WBTC-A to Liquidations 2.0 Framework - April 26, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 525,
+    "title": "Community Greenlight Poll - MCO2 (Moss Carbon Credit) - April 19, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 526,
+    "title": "Community Greenlight Poll - UNI-V2-GUSD-DAI (Uniswap V2 GUSD-DAI LP Token) - April 19, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 527,
+    "title": "Community Greenlight Poll - UNI-V2-DAI-PAX (Uniswap V2 DAI-PAX LP Token) - April 19, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 528,
+    "title": "Community Greenlight Poll - SLP-DAI-USDC (Sushiswap DAI-USDC LP Token) - April 19, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 529,
+    "title": "Community Greenlight Poll - bBADGER (Badger Sett Badger) - April 19, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 530,
+    "title": "Community Greenlight Poll - rETH (Rocket Pool Staked ETH) - April 19, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 531,
+    "title": "Community Greenlight Poll - 1INCH (1inch Liquidity Protocol) - April 19, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 536,
+    "title": "Decrease the UNIV2DAIUSDC-A Liquidation Ratio - May 3, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 537,
+    "title": "Add Multiple Vault Types to the Liquidations 2.0 Framework - May 3, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 542,
+    "title": "Inclusion Poll for Staking Rewards (MIP49) - May 10, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 538,
+    "title": "Inclusion Poll for Strategic Marcomms Core Unit MIP Set - May 10, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 539,
+    "title": "Inclusion Poll for Monthly Governance Cycle (MIP51) - May 10, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 540,
+    "title": "Inclusion Poll for Sustainable Ecosystem Scaling Core Unit MIP Set - May 10, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 544,
+    "title": "Parameter Changes Proposal - MakerDAO Open Market Committee - May 10, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 543,
+    "title": "Inclusion Poll for MIP0 Amendments for Improved Clarity (MIP4c2-SP14) - May 10, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 541,
+    "title": "Inclusion Poll for Direct Deposit Module (MIP50) - May 10, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 546,
+    "title": "Add Volatile-Volatile UNI LPs to Liquidations 2.0 Framework - May 17, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 545,
+    "title": "Add Stablecoin-Volatile UNI LPs to Liquidations 2.0 Framework - May 17, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 547,
+    "title": "Add UNIV2DAIUSDT-A to Liquidations 2.0 Framework - May 17, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 548,
+    "title": "Monthly MIPs Governance Poll - May 17, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 561,
+    "title": "Whitelist B.Protocol on WBTCUSD Oracle (MIP10c9-SP27 and MIP10c9-SP28) - May 24, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 553,
+    "title": "Community Greenlight Poll - SLP-SNX-ETH (Sushiswap SNX-ETH LP Token) - May 17, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 552,
+    "title": "Community Greenlight Poll - SLP-LINK-ETH (Sushiswap LINK-ETH LP Token) - May 17, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 551,
+    "title": "Community Greenlight Poll - SLP-ETH-USDT (Sushiswap ETH-USDT LP Token) - May 17, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 549,
+    "title": "Community Greenlight Poll - SLP-AAVE-ETH (Sushiswap AAVE-ETH LP Token) - May 17, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 550,
+    "title": "Community Greenlight Poll - SLP-COMP-ETH (Sushiswap COMP-ETH LP Token) - May 17, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 557,
+    "title": "Community Greenlight Poll - SLP-WBTC-ETH (Sushiswap WBTC-ETH LP Token) - May 17, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 560,
+    "title": "Community Greenlight Poll - PA-DROP (PandaCredit DROP Token) - May 17, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 556,
+    "title": "Community Greenlight Poll - SLP-USDC-ETH (Sushiswap USDC-ETH LP Token) - May 17, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 555,
+    "title": "Community Greenlight Poll - SLP-UNI-ETH (Sushiswap UNI-ETH LP Token) - May 17, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 554,
+    "title": "Community Greenlight Poll - SLP-SUSHI-ETH (Sushiswap SUSHI-ETH LP Token) - May 17, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 558,
+    "title": "Community Greenlight Poll - SLP-YFI-ETH (Sushiswap YFI-ETH LP Token) - May 17, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 559,
+    "title": "Community Greenlight Poll - CEL (Celsius Network Token) - May 17, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 565,
+    "title": "Add SLP-WBTC-ETH as a new Vault Type - May 31, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 564,
+    "title": "Add SLP-USDC-ETH as a new Vault Type - May 31, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 562,
+    "title": "Reduce the PSM-USDC-A Fee Out (tout) - May 31, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 563,
+    "title": "Add SLP-DAI-ETH as a new Vault Type - May 31, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 567,
+    "title": "Adjusting Auction Parameters for ETH Vault Types - June 7, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 566,
+    "title": "Investigate Implementation of a YFI-C Vault Type with a Higher Liquidation Ratio - June 7, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 568,
+    "title": "Whitelist Yearn Finance on UNIUSD, LINKUSD, AAVEUSD, COMPUSD Oracles (MIP10c9-SP29) - June 7, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 569,
+    "title": "Parameter Changes Proposal - MakerDAO Open Market Committee - June 7, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 570,
+    "title": "Add CF-DROP as a new RWA Vault Type - June 7, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 571,
+    "title": "Add HTC-DROP as a new RWA Vault Type - June 7, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 572,
+    "title": "Add FFT1-DROP as a new RWA Vault Type - June 7, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 573,
+    "title": "Add P1-DROP as a new RWA Vault Type - June 7, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 574,
+    "title": "Decrease the UNIV2DAIUSDC-A Liquidation Ratio and Stability Fee - June 7, 2021",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 576,
+    "title": "Add SLP-YFI-ETH as a new Vault Type - June 14, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 577,
+    "title": "Add SLP-AAVE-ETH as a new Vault Type - June 14, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 578,
+    "title": "Increase the Dust Parameter - June 14, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 579,
+    "title": "Increase the Dust Parameter for ETH-B Vault Type - June 14, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 575,
+    "title": "Add SLP-ETH-LINK as a new Vault Type - June 14, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 588,
+    "title": "Adopt the Debt Ceiling Instant Access Module (DC-IAM) for PSM-USDC-A - June 21, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 587,
+    "title": "Investigate Offboarding of Multiple Vault Types - June 21, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 582,
+    "title": "Ratification Poll for Modify Core Unit Budget, RISK-001 (MIP40c3-SP13) - June 14, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 583,
+    "title": "Ratification Poll for Sustainable Ecosystem Scaling Core Unit MKR Budget, SES-001 (MIP40c3-SP17) - June 14, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 584,
+    "title": "Ratification Poll for DssVest (MIP54) - June 14, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 585,
+    "title": "Ratification Poll for Oracles Core Unit (ORA-001) Subproposal Set - June 14, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 586,
+    "title": "Ratification Poll for GovAlpha Facilitator Onboarding (MIP41c4-SP12) - June 14, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 580,
+    "title": "Ratification Poll for GovAlpha Core Unit Budget, GOV-001 (MIP40c3-SP11) - June 14, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 581,
+    "title": "Ratification Poll for Modify Core Unit Budget, RWF-001 - (MIP40c3-SP12) - June 14, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 593,
+    "title": "Parameter Changes Proposal - MakerDAO Open Market Committee - June 28, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 589,
+    "title": "Community Greenlight Poll - MATIC (Polygon) - June 21, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 590,
+    "title": "Community Greenlight Poll - GNO (Gnosis) - June 21, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 592,
+    "title": "Community Greenlight Poll - HPT (HuobiPool Token) - June 21, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 591,
+    "title": "Community Greenlight Poll - MC-DROP (Monachil Capital Partners DROP) - June 21, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 595,
+    "title": "Adjust FLAP Auction Parameters - July 12, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 597,
+    "title": "Add MATIC as a new Vault Type - July 12, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 596,
+    "title": "Increase the RWA-02 (NS-DROP) Debt Ceiling - July 12, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 594,
+    "title": "Community Greenlight Poll - 0xBTC (0xBitcoin Neutral Mineable Token) - July 5, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 603,
+    "title": "Ratification Poll for Collateral Engineering Services, CES-001 - July 12, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 606,
+    "title": "Ratification Poll for Dispute Resolution (MIP52) - July 12, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 598,
+    "title": "Ratification Poll for Growth Core Unit Budget, GRO-001 - July 12, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 599,
+    "title": "Ratification Poll for Adding AmaZix Marketing Core Unit - July 12, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 600,
+    "title": "Ratification Poll for Strategic Marcomms Core Unit - July 12, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 601,
+    "title": "Ratification Poll for Special Purpose Fund (MIP55) - July 12, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 602,
+    "title": "Ratification Poll for Modifying the Content Production Core Unit Budget, MKT-001 - July 12, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 605,
+    "title": "Ratification Poll for Governance Communications Core Unit, COM-001 - July 12, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 608,
+    "title": "Community Greenlight Poll - G-UNIv3-DAIUSDC (Gelato UniswapV3 DAI-USDC LP Token) - July 19, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 607,
+    "title": "Community Greenlight Poll - U-DROP (Untangled Finance DROP) - July 19, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 609,
+    "title": "Increase the UNIV2DAIUSDC-A Maximum Debt Ceiling - August 2, 2021",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 611,
+    "title": "Parameter Changes Proposal - MakerDAO Open Market Committee - August 2, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 610,
+    "title": "Community Greenlight Poll - RWA-120dB (120dB Films) - August 02, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 618,
+    "title": "Reduce Vault Liquidation Ratios - August 16, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 619,
+    "title": "Onboarding PAX Peg Stability Module - August 16, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 612,
+    "title": "Ratification Poll for DAI Foundation Core Unit, DAIF-001 - August 9, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 614,
+    "title": "Ratification Poll for Growth Core Unit MKR Budget, GRO-001 (MIP40c3-SP23) - August 9, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 613,
+    "title": "Ratification Poll for Declaration of Intent - Onboarding a new collateral type backed by B.Protocol v2 (MIP13c3-SP11) - August 9, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 617,
+    "title": "Community Greenlight Poll - NCP01-DROP (Nebula Capital Partners DROP) - August 16, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 615,
+    "title": "Community Greenlight Poll - CGFF-DROP (Cauris Global Fintech Fund DROP) - August 16, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 616,
+    "title": "Community Greenlight Poll - CNC1-DROP (CapitalNow Cannabis DROP) - August 16, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 620,
+    "title": "Lower the Flash Mint Fee (toll) to 0% - August 30, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 621,
+    "title": "Add RWA007 (SolarX) as a new RWA Vault Type - August 30, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 624,
+    "title": "Add GUNIV3DAIUSDC1-A as a new Vault Type - September 13, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 634,
+    "title": "Adopt the Debt Ceiling Instant Access Module (DC-IAM) for PSM-PAX-A - September 13, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 633,
+    "title": "Offboard KNC Legacy Token - September 13, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 623,
+    "title": "Community Greenlight Poll - RARE (SuperRare) - September 6, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 622,
+    "title": "Community Greenlight Poll - RAI (Rai Reflex Index) - September 6, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 638,
+    "title": "Adjusting Auction Parameters for ETH-A, ETH-B, ETH-C, and WBTC-A - September 20, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 637,
+    "title": "Increase the System Surplus Buffer - September 20, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 630,
+    "title": "Ratification Poll for Modify Core Unit Budget - Sustainable Ecosystem Scaling (MIP40c3-SP31) - September 13, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 628,
+    "title": "Ratification Poll for Development & UX Core Unit, DUX-001 - September 13, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 629,
+    "title": "Ratification Poll for GovAlpha Core Unit Budget Q4 2021 to Q1 2022 (MIP40c3-SP29) - September 13, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 632,
+    "title": "Ratification Poll for Risk Core Unit MKR Compensation (MIP40c3-SP25) -  September 13, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 631,
+    "title": "Ratification Poll for Collateral Engineering Services Core Unit, CES-001 - September 13, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 625,
+    "title": "Ratification Poll for Strategic Happiness Core Unit, SH-001 - September 13, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 626,
+    "title": "Ratification Poll for RWA Foundations (MIP58) - September 13, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 627,
+    "title": "Ratification Poll for StarkNet Engineering Core Unit, SNE-001 - September 13, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 639,
+    "title": "Offboard USDT Collateral Types - September 27, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 636,
+    "title": "Community Greenlight Poll - SB-DDC (Solid Block Detox Digital Coins) - September 20, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 635,
+    "title": "Community Greenlight Poll - REIF-DROP (Commercial Real Estate Assets DROP) - September 20, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 643,
+    "title": "Offboard the UNIV2LINKETH-A Vault Type - October 4, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 640,
+    "title": "Offboard the BAT-A Vault Type - October 4, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 641,
+    "title": "Offboard the ZRX-A Vault Type - October 4, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 642,
+    "title": "Offboard the LRC-A Vault Type - October 4, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 644,
+    "title": "Offboard the UNIV2AAVEETH-A Vault Type - October 4, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 655,
+    "title": "Add the Aave Direct Deposit DAI Module (D3M) - October 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 656,
+    "title": "PaperImperium Supplemental Compensation - October 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 652,
+    "title": "Nexo Institutional Vault Onboarding - October 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 653,
+    "title": "Add stETH (Lido Staked ETH) as a new Vault Type - October 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 654,
+    "title": "Increase the GUNIV3DAIUSDC1-A Debt Ceiling - October 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 645,
+    "title": "Community Greenlight Poll - CurveLP-stETH-ETH (Curve stETH-ETH LP Token) - October 4, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 660,
+    "title": "Parameter Changes Proposal - MakerDAO Open Market Committee - October 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 648,
+    "title": "Ratification Poll for Modify Core Unit Budget, MKT-001 (MIP40c3-SP33) - October 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 651,
+    "title": "Ratification Poll for Adding the Deco Fixed Rate Core Unit (DECO-001) - October 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 646,
+    "title": "Ratification Poll for Implementation of DSS Charter (MIP59) - October 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 647,
+    "title": "Ratification Poll for Adding MakerLabs Core Unit (SNUNK-001) - October 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 649,
+    "title": "Ratification Poll for Growth Core Unit Budget, GRO-001 (MIP40c3-SP37) - October 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 650,
+    "title": "Ratification Poll for Adding Data Insights Core Unit (DIN-001) - October 11, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 663,
+    "title": "Raise the ESM threshold and Increase the Governance Delay - October 25, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 662,
+    "title": "Recognised Delegate Compensation Trial - October 25, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 661,
+    "title": "Clean Money Sentiment - October 25, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 658,
+    "title": "Community Greenlight Poll - OFH (Security Tokens Refinancing) - October 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 659,
+    "title": "Community Greenlight Poll - TM2-DROP (Technology Metals Market) - October 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 657,
+    "title": "Community Greenlight Poll - CSC (Curio Stablecoin) - October 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 664,
+    "title": "Parameter Changes Proposal - MakerDAO Open Market Committee - November 1, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 665,
+    "title": "Lower PSM Vault Fees - November 1, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 673,
+    "title": "Add WBTC-B as a new Vault Type - November 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 669,
+    "title": "NS-DROP Covenant Modification - November 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 670,
+    "title": "GUNIV3DAIUSDC-A Parameter Adjustments - November 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 671,
+    "title": "Increase the WSTETH-A Debt Ceiling - November 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 672,
+    "title": "DIRECT-AAVEV2-DAI Parameter Adjustments - November 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 668,
+    "title": "Recognised Delegate Compensation Increase - November 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 666,
+    "title": "Community Greenlight Poll - MDI (MD Irradiance LLC) - November 1, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 667,
+    "title": "Community Greenlight Poll - OHM (Olympus DAO) - November 1, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 684,
+    "title": "Offboard the COMP-A Vault Type - November 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 686,
+    "title": "Offboard the BAL-A Vault Type - November 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 687,
+    "title": "Local Liquidation Limit Adjustments for ETH-A, ETH-B, ETH-C, WBTC-A and WSTETH-A - November 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 682,
+    "title": "Rates Proposal - November 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 683,
+    "title": "Change of Covenants for P1-DROP (Peoples Company Series 1) - November 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 685,
+    "title": "Offboard the AAVE-A Vault Type - November 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 679,
+    "title": "Ratification Poll for Real-World Finance Core Unit MKR Compensation, RWF-001 (MIP40c3-SP38) - November 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 680,
+    "title": "Ratification Poll for Modify Core Unit Budget, MKT-001 (MIP40c3-SP33) - November 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 681,
+    "title": "Ratification Poll for Adding the Deco Fixed Rate Core Unit (DECO-001) - November 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 674,
+    "title": "Ratification Poll for Supplement to Collateral Onboarding Application (MIP6c3-SP1) - November 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 675,
+    "title": "Ratification Poll for Modify Core Unit Budget, RWF-001 (MIP40c3-SP39) - November 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 676,
+    "title": "Ratification Poll for Modify Core Unit Budget, COM-001 (MIP40c3-SP40) - November 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 677,
+    "title": "Ratification Poll for Adding Sidestream Auction Services Core Unit, SAS-001 - November 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 678,
+    "title": "Ratification Poll for the Immunefi Security Core Unit (IS-001) - November 8, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 691,
+    "title": "Increase the System Surplus Buffer - November 22, 2021",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 690,
+    "title": "Add WBTC-C as a new Vault Type - November 22, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 692,
+    "title": "Add a GUSD Peg Stability Module - November 22, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 693,
+    "title": "Increase the Aave D3M Maximum Debt Ceiling - November 22, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 689,
+    "title": "Community Greenlight Poll - SB-frOGI (SolidBlock Red Frog Digital Coin) - November 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 688,
+    "title": "Community Greenlight Poll - MONETALIS (Monetalis Wholesale SME Green Growth Lending) - November 15, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 699,
+    "title": "Parameter Changes Proposal - MakerDAO Open Market Committee - November 29, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 694,
+    "title": "Increase the Dust Parameter for Most Vault Types - November 29, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 700,
+    "title": "Add CurveLP-stETH-ETH as a new Vault Type - November 29, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 698,
+    "title": "One Time Payment to the GovComms CU to Deal with Budget Issues - November 29, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 697,
+    "title": "Add GUNIV3DAIUSDC2-A as a new Vault Type - November 29, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 696,
+    "title": "Use the MakerDAO Treasury to Fund MKR Expenses - November 29, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 695,
+    "title": "Increase the Dust Parameter for ETH-B Vault Type - November 29, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 702,
+    "title": "Adjust MATIC-A System Parameters - December 06, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 701,
+    "title": "Adjust wstETH-A System Parameters - December 06, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 707,
+    "title": "Recognised Delegate Compensation Trial Performance Modifier - December 13, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 705,
+    "title": "DAI Direct Deposit Module (D3M) Debt Ceiling Targeting - December 13, 2021",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 706,
+    "title": "DAI Direct Deposit Module (D3M) Net Rates Spread - December 13, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 703,
+    "title": "Community Greenlight Poll - aUST (Anchor TerraUSD) - December 06, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 704,
+    "title": "Community Greenlight Poll - G-UNIv3-DAIUSDP (Gelato UniswapV3 DAI-USDP LP Token) - December 06, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 717,
+    "title": "Proposal - Recover DAI Locked in Optimism Escrow - January 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 715,
+    "title": "Prioritize DAI Direct Deposit Module (D3M) for Maple Finance - January 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 714,
+    "title": "Raise the Emergency Shutdown Module (ESM) Threshold - January 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 713,
+    "title": "Prioritize Onboarding a Compound DAI Direct Deposit Module (D3M) - January 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 716,
+    "title": "Increase the Dust Parameter for Select LP Token Vaults - January 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 729,
+    "title": "PPG - Open Market Committee Proposal - January 17, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 730,
+    "title": "Decrease the GUNIV3DAIUSDC2-A Liquidation Ratio - January 17, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 722,
+    "title": "Ratification Poll for Core Unit Budget, SNE-001 (MIP40c3-SP47) - January 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 728,
+    "title": "Ratification Poll for Modify Core Unit Budget - Sustainable Ecosystem Scaling (SES-001) (MIP40c3-SP55) - January 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 708,
+    "title": "Community Greenlight Poll - OGN (Origin Protocol) - January 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 709,
+    "title": "Community Greenlight Poll - OUSD (Origin Dollar) - January 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 710,
+    "title": "Community Greenlight Poll - RBLD (Robinland Holdings) - January 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 711,
+    "title": "Community Greenlight Poll - TUSD-PSM (TrueUSD) - January 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 712,
+    "title": "Community Greenlight Poll - USDap (BondAppetit) - January 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 727,
+    "title": "Ratification Poll for Development & UX Core Unit Budget - DUX-001 (MIP40c3-SP52) - January 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 726,
+    "title": "Ratification Poll for Facilitator Onboarding for RWF-001 (MIP41c4-SP27) - January 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 725,
+    "title": "Ratification Poll for Offboarding Content Production Core Unit (MKT-001) - January 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 724,
+    "title": "Ratification Poll for Maker Keeper Network (MIP63) - January 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 723,
+    "title": "Ratification Poll for Bug Bounty Program for MakerDAO Critical Infrastructure (MIP64) - January 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 718,
+    "title": "Ratification Poll for Modify Core Unit Budget, ORA-001 (Oracle Gas Costs) (MIP40c3-SP45) - January 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 719,
+    "title": "Ratification Poll for Onboarding Tech-Ops Core Unit (TECH-001) - January 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 720,
+    "title": "Ratification Poll for the Strategic Finance Core Unit (SF-001) - January 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 721,
+    "title": "Ratification Poll for Collateral Offboarding Process (MIP62) - January 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 733,
+    "title": "PPG - Open Market Committee Proposal - January 31, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 732,
+    "title": "Community Greenlight Poll - STABLE-TBILL (US Treasury Securities Up To 12 Months Duration) - January 24, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 731,
+    "title": "Community Greenlight Poll - STABLE-NOTE (2 to 10 Year Duration US Treasury Securities) - January 24, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 734,
+    "title": "Extend the Delegate Compensation Trial  - February 7, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 735,
+    "title": "Offloading TUSD-A - February 7, 2022",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 736,
+    "title": "Introduce Rate Limiting into the Flapper - February 7, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 737,
+    "title": "Increase the PSM-GUSD Debt Ceiling - February 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 747,
+    "title": "MakerMan Retroactive Delegate Compensation - February 21, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 744,
+    "title": "Ratification Poll for Onboarding the Maker Talent Core Unit (MT-001) - February 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 738,
+    "title": "Ratification Poll for Facilitator Onboarding to DUX-001 - 0xdeniz (MIP41c4-SP32) - February 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 739,
+    "title": "Ratification Poll for Modify Core Unit Budget, RISK-001 (MIP40c3-SP56) - February 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 740,
+    "title": "Ratification Poll for Modify Core Unit Budget - Collateral Engineering Services, CES-001 (MIP40c3-SP57) - February 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 741,
+    "title": "Ratification Poll for MIP55 Amendments (MIP4c2-SP16) - February 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 742,
+    "title": "Ratification Poll for Modify Core Unit Budget, Immunefi Security (IS-001) (MIP40c3-SP58) - February 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 743,
+    "title": "Ratification Poll for Onboard/Amend Keeper Network - Tech-Ops (MIP63c4-SP1) - February 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 745,
+    "title": "Ratification Poll for Intangible Asset Assignment (MIP60) - February 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 748,
+    "title": "PPG - Open Market Committee Proposal - February 28, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 749,
+    "title": "Adding Rate Limiter to Flap Auctions - February 28, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 746,
+    "title": "Community Greenlight Poll - PUNK (NTFX CryptoPunk) - February 21, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 750,
+    "title": "Offboarding Parameters for TUSD-A - March 7, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 751,
+    "title": "Reinstate Surplus Buffer Lerp - March 7, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 752,
+    "title": "Fund Ambassadors Program Pilot - March 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 762,
+    "title": "Amend MIP64 to clarify critical web bounty amount (MIP4c3-SP1) - March 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 761,
+    "title": "Ratification Poll for Recognized Delegate Compensation (MIP61) - March 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 753,
+    "title": "Ratification Poll for Declaration of Intent - Invest in Short-Term Bonds (MIP13c3-SP12) - March 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 754,
+    "title": "Ratification Poll for Facilitators Offboarding (MDS-001) (MIP41c5-SP5) - March 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 755,
+    "title": "Ratification Poll for GovAlpha Budget 2022-23 (MIP40c3-SP59) - March 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 756,
+    "title": "Ratification Poll for Modify Core Unit Budget - Real-World Finance (RWF-001) (MIP40c3-SP61) - March 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 757,
+    "title": "Ratification Poll for Modify GovAlpha Core Unit MKR Budget (MIP40c3-SP60) - March 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 758,
+    "title": "Ratification Poll for Onboard-Amend Keeper Network - Gelato Network (MIP63c4-SP3) - March 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 759,
+    "title": "Ratification Poll for Onboard-Amend Keeper Network - Keep3r Network (MIP63c4-SP2) - March 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 760,
+    "title": "Ratification Poll for Rapid Payment for Small Bug Bounties (MIP64, MIP40c3-SP42 Amendment) (MIP4c2-SP17) - March 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 765,
+    "title": "Short Ratification Poll for MIP62 Amendments (MIP4c3-SP2) - March 28, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 763,
+    "title": "Short Ratification Poll for SPF ETHAmsterdam Event (MIP55c3-SP3) - March 28, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 764,
+    "title": "Initial Parameters for StarkNet Simple DAI Bridge - March 28, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 766,
+    "title": "Investigate Implementation of a Notional Finance D3M - March 28, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 767,
+    "title": "PPG - Open Market Committee Proposal - April 4, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 768,
+    "title": "Launch Maker Wormhole With Optimism and Arbitrum Domains - April 4, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 781,
+    "title": "Adjust CRVV1ETHSTETH-A System Parameters - April 11, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 785,
+    "title": "Short Ratification Poll to Amend MIP64 to allow more flexibility in scope (MIP4c3-SP3) - April 18, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 786,
+    "title": "Whitelist Oasis.app on Multiple Oracles (MIP10c9-SP30) - April 18, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 777,
+    "title": "Ratification Poll for Modify the Collateral Application Form (MIP6c3-SP2) - April 11, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 782,
+    "title": "Ratification Poll for Update Data Insights Core Unit Mandate (MIP39c2-SP31) - April 11, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 776,
+    "title": "Ratification Poll for Adding CES-001 as a Collateral Onboarding Domain Team - April 11, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 778,
+    "title": "Ratification Poll for Adding Events Core Unit (EVENTS-001) - April 11, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 780,
+    "title": "Ratification Poll for Pairwyse Licensure (MIP66) - April 11, 2022.",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 779,
+    "title": "Ratification Poll for Methodology and Review Process for Structured Finance Transactions (MIP67) - April 11, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 770,
+    "title": "Ratification Poll for Governance Communications Core Unit, COM-001, Mandate Refresh (MIP39c2-SP30) - April 11, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 771,
+    "title": "Ratification Poll for Dissolution of Content Production, MKT-001, Multi-Sig Request (MIP47c3-SP1) - April 11, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 772,
+    "title": "Ratification Poll for Modify Protocol Engineering Core Unit Budget, PE-001 (MIP40c3-SP68) - April 11, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 773,
+    "title": "Ratification Poll for Add Data Insights Core Unit Budget (MIP40c3-SP64) - April 11, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 774,
+    "title": "Ratification Poll for Modify Core Unit Budget, COM-001 (MIP40c3-SP62) - April 11, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 775,
+    "title": "Ratification Poll for Modify Core Unit Budget, COM-001 (MIP40c3-SP63) - April 11, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 788,
+    "title": "Extend Strategic Happiness Core Unit (SH-001) Budget Until May Governance Cycle - April 25, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 787,
+    "title": "Add wstETH-B as a new Vault Type - April 25, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 783,
+    "title": "Community Greenlight Poll - sETH2 (Stakewise Staked ETH) - April 18, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 784,
+    "title": "Community Greenlight Poll - HVBANK (Huntingdon Valley Bank Loan Syndication Collateral) - April 18, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 791,
+    "title": "Investigate Implementation of a TrueFi D3M - May 2, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 792,
+    "title": "PPG - Open Market Committee Proposal - May 2, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 790,
+    "title": "Community Greenlight Poll - IPCL (India Power Green Bonds) - May 2, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 789,
+    "title": "Community Greenlight Poll - ATDC (ATD Combustors) - May 2, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 799,
+    "title": "Adjust the lid Parameter on the Rate Limited Flapper - May 16, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 798,
+    "title": "Raise the ESM Minimum Threshold - May 16, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 795,
+    "title": "Ratification Poll for L2-to-L1 Fast Withdrawals (MIP69) - May 9, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 796,
+    "title": "Ratification Poll for MIP40 Budget Process Amendment (MIP4c2-SP19) - May 9, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 797,
+    "title": "Ratification Poll for Strategic Happiness (SH-001) Core Unit Budget Modification (MIP40c3-SP67) - May 9, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 793,
+    "title": "Ratification Poll for Monetalis Clydesdale, Liquid Bond Strategy & Execution (MIP65) - May 9, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 794,
+    "title": "Ratification Poll for Monetalis Lusitano, UK Green Economy SME Wholesale Lending (MIP68) - May 9, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 803,
+    "title": "Launch Maker Teleport with 1 Basis Point Fee - May 23, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 802,
+    "title": "Investigate Deploying the MakerDAO Balance Sheet in ETH - May 23, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 801,
+    "title": "Investigate Implementation of an Antalpha Institutional Vault - May 23, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 800,
+    "title": "Community Greenlight Poll - FEI (Fei USD) - May 16, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 807,
+    "title": "Offboarding Parameters for UNIV2UNIETH-A - May 30, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 811,
+    "title": "Short Ratification Poll for MIP10c19-SP1 - Update Oracle Expiration Time for All Oracles - May 30, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 809,
+    "title": "PPG - Open Market Committee Proposal - May 30, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 804,
+    "title": "Offboarding Parameters for UNI-A - May 30, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 805,
+    "title": "Offboarding Parameters for UNIV2DAIETH-A - May 30, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 806,
+    "title": "Offboarding Parameters for UNIV2WBTCETH-A - May 30, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 808,
+    "title": "Offboarding Parameters for UNIV2WBTCDAI-A - May 30, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 810,
+    "title": "Short Ratification Poll for MIP10c7-SP2 - Modify Oracle Data Models - May 30, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 828,
+    "title": "Management of Velodrome Airdrop and veNFT - June 13, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 829,
+    "title": "Add rETH as a new Vault Type - June 13, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 827,
+    "title": "Deploy a Trial Permissionless Open Market Operation - June 13, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 812,
+    "title": "Community Greenlight Poll - KREDIKA (Kredika LTD) - June 6, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 813,
+    "title": "Community Greenlight Poll - XSGD (StraitsX) - June 6, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 823,
+    "title": "Ratification Poll for MIP16 Amendments (MIP4c2-SP20) - June 13, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 816,
+    "title": "Ratification Poll for Facilitator Onboarding to IS-001 - @psychonaut (MIP41c4-SP34) - June 13, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 817,
+    "title": "Ratification Poll for Facilitator Onboarding to DIN-001 - @tadeo (MIP41c4-SP35) - June 13, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 819,
+    "title": "Ratification Poll for Adding Lending Oversight Core Unit (LOVE-001) - June 13, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 820,
+    "title": "Ratification Poll for Task Forces (MIP75) - June 13, 2022.",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 822,
+    "title": "Ratification Poll for Adding a Special Purpose Fund - Makershire Hathaway (MIP55c3-SP4) - June 13, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 824,
+    "title": "Ratification Poll for Permissionless Open Market Operations (MIP74) - June 13, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 825,
+    "title": "Budget Ratification Poll for Modify Strategic Finance Core Unit Budget, SF-001 (MIP40c3-SP69) - June 13, 2022",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 826,
+    "title": "Ratification Poll for Onboard/Amend Keep3r Network (MIP63c4-SP4) - June 13, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 830,
+    "title": "Budget Ratification Poll for Modify Growth Core Unit Budget, GRO-001 (MIP40c3-SP70) - June 13, 2022",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 831,
+    "title": "Ratification Poll for Onboard Growth Task Force (MIP75c3-SP1) - June 13, 2022",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 832,
+    "title": "Asset Allocation for MIP65 (Clydesdale) - June 27, 2022",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 814,
+    "title": "Prioritization Sentiment - Technical Resource Deployment - June 6, 2022",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 815,
+    "title": "Prioritization Sentiment - Collateral Class - June 6, 2022",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 835,
+    "title": "Select a Target Level of rNPI Profitability to Guide Budget Cuts - July 4, 2022",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 833,
+    "title": "Add RWA-009 (HVBank) as a new Vault Type - July 4, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 834,
+    "title": "PPG - Open Market Committee Proposal - July 4, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 836,
+    "title": "Oh no, this should not be here - July 8, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 837,
+    "title": "Add RWA-008 (OFH) as a new Vault Type - July 11, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 838,
+    "title": "Ratification Poll for Governance Facilitator Onboarding GOV-001 (MIP41c4-SP37) - July 11, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 839,
+    "title": "Community Greenlight Poll - bIBTA (Backed Finance Short-Term Bond ETF) - July 18, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 843,
+    "title": "Tactical Re-allocation Process for Budget Adjustments - August 1, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 840,
+    "title": "PPG - Open Market Committee Proposal - August 1, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 841,
+    "title": "Maker Teleport Deployment on Starknet and Associated Risk Parameters - August 1, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 842,
+    "title": "MIP9 Community Greenlight Poll - Pando (Pando Investment Grade Climate Assets) - August 1, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 853,
+    "title": "Maker Teleport Deployment on Starknet and Associated Risk Parameters - August 15, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 844,
+    "title": "Ratification Poll for Modify Dai Foundation Core Unit Budget (MIP40c3-SP74) - August 8, 2022",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 845,
+    "title": "Ratification Poll for Core Unit Offboarding Process Amendments (MIP4c2-SP15) - August 8, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 846,
+    "title": "Ratification Poll for Modify Oracle Core Unit Budget (MIP40c3-SP75) - August 8, 2022",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 847,
+    "title": "Ratification Poll for MIP50 Direct Deposit Module Amendment (MIP4c2-SP23) - August 8, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 848,
+    "title": "Ratification Poll for Makershire Redux (MIP76) - August 8, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 849,
+    "title": "Ratification Poll for Offboarding Events Core Unit (EVENTS-001) - August 8, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 855,
+    "title": "Collateral Onboarding Project-based Funding Request (PFR) - August 22, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 854,
+    "title": "Target Spend Level - August 22, 2022",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 850,
+    "title": "Community Greenlight Poll - RWA Arranger (BlockTower Credit) - August 15, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 852,
+    "title": "Community Greenlight Poll - DDC (Detox Digital Coin) - August 15, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 851,
+    "title": "Community Greenlight Poll - Cabot (Cabot Renewable Energy Crypto Mining LLC) - August 15, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 856,
+    "title": "PPG - Open Market Committee Proposal - August 29, 2022",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 857,
+    "title": "Ratification Poll for Legal Domain Work on Greenlit Collateral (bIBTA) Special Purpose Fund (MIP55c3-SP6) - August 29, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 860,
+    "title": "Short Ratification Poll for MIP65 Amendments (MIP4c3-SP4) - September 5, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 861,
+    "title": "Short Ratification Poll for Legal Work on MIP65 Special Purpose Fund (MIP55c3-SP8) - September 5, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 859,
+    "title": "MKR Pro-Rata Vesting for former RWF-001 Members - September 5, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 858,
+    "title": "Updating HVBank (RWA-009) Legal Agreements - September 5, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 862,
+    "title": "Community Greenlight Poll - GNO (GnosisDAO) - September 5, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 864,
+    "title": "Community Greenlight Poll - GUNIV3-BUSD-DAI (Gelato Uniswap v3 BUSD-DAI) - September 5, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 863,
+    "title": "Community Greenlight Poll - GAMMA UNI-V3-WBTC-RENBTC (Gamma Uniswap v3 wBTC-renBTC) - September 5, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 870,
+    "title": "Ratification Poll for Strategic Happiness Core Unit (SH-001) Offboarding (MIP39c3-SP2) - September 12, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 865,
+    "title": "Ratification Poll for Amend Measurement Period For Delegate Participation Metrics (MIP4c2-SP24) - September 12, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 866,
+    "title": "Ratification Poll for the MakerDAO Delegates MIP Set - September 12, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 867,
+    "title": "Ratification Poll for MKR Compensation for StarkNet Engineering Core Unit, SNE-001 (MIP40c3-SP79) - September 12, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 868,
+    "title": "Ratification Poll for Special Purpose Fund for The Ambassador Program (MIP55c3-SP7) - September 12, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 869,
+    "title": "Ratification Poll for Modify GovAlpha Core Unit MKR Budget (MIP40c3-SP80) - September 12, 2022",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 873,
+    "title": "Collateral Auction Parameter Updates - September 26, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 872,
+    "title": "Update rETH Onboarding Parameters - September 26, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 871,
+    "title": "Community Greenlight Poll - RFA (RFA - Canadian Federally Regulated Mortgage Originator) - September 19, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 874,
+    "title": "PPG - Open Market Committee Proposal - October 3, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 875,
+    "title": "Approve Multisig for Management of Velodrome NFT - October 3, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 878,
+    "title": "Change PSM-GUSD-A Parameters - October 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 880,
+    "title": "MOMC Guidance - Remove ETH Supply Yield And Liquidity Incentives From D3M Target Borrow Rate Calculations - October 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 881,
+    "title": "MOMC Guidance - Allowed Spread Between D3M Target Borrow Rate And ETH-A Stability Fee October 10, 2022",
+    "type": "choose-free",
+    "tags": []
+  },
+  {
+    "pollId": 877,
+    "title": "Whitelist Oasis.app on rETHUSD Oracle (MIP10c9-SP31) - October 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 879,
+    "title": "End DAI Funding For Sourcecred - October 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 876,
+    "title": "Community Greenlight Poll - ANCHORAGE (Anchorage Lending Crypto Mining) - October 3, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 888,
+    "title": "Ratification Poll for Legal And Commercial Risk Domain Work on Greenlit Collateral BlockTower Credit - RWA Arranger SPF (MIP55c3-SP9) - October 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 889,
+    "title": "Ratification Poll for Facilitator Offboarding Process (MIP41c5) adjustments (MIP4c2-SP26) - October 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 890,
+    "title": "Ratification Poll for Facilitator Offboarding - RWF-001 (MIP41c5-SP12) - October 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 887,
+    "title": "Ratification Poll for Monetalis-Coinbase Appaloosa (MIP82) - October 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 882,
+    "title": "Ratification Poll for Endgame Prelaunch MIP Set - October 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 883,
+    "title": "Ratification Poll for Offboarding the Strategic Happiness Core Unit - SH-001 (MIP39c3-SP3) - October 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 884,
+    "title": "Ratification Poll for Offboarding the Events Core Unit - EVENTS-001 (MIP39c3-SP4) - October 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 885,
+    "title": "Ratification Poll for Offboarding the Real-World Finance Core Unit - RWF-001 (MIP39c3-SP5) - October 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 886,
+    "title": "Ratification Poll for Coinbase USDC Institutional Rewards (MIP81) - October 10, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 891,
+    "title": "MIP65 Asset Reallocation - October 24, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 892,
+    "title": "Activate Liquidations for Stablecoin Vaults to Clear Bad Debt - October 31, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 893,
+    "title": "One Month Budget Extension for Strategic Happiness Core Unit - October 31, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 894,
+    "title": "PPG - Open Market Committee Proposal - October 31, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 895,
+    "title": "Add the Compound V2 DAI Direct Deposit Module (D3M) - November 7, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 896,
+    "title": "Stablecoin Vault Liquidation Parameters and Auction Activation - November 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 910,
+    "title": "Add GNO (GnosisDAO) as a new Vault Type - November 21, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 911,
+    "title": "Add Multiple BlockTower Credit Vault Types (RWA010, RWA011, RWA012, RWA013) - November 21, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 912,
+    "title": "Offboarding Parameters for renBTC-A - November 21, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 913,
+    "title": "Proceed with Pre-Implementation Work for the Deal Outlined in MIP90 (BlockTower Liquid AAA Structured Credit and Money Market Fund) - November 21, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 906,
+    "title": "Ratification Poll for Modify Emulated Surplus Buffer Upper Limit (MIP84c10-SP1) - November 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 908,
+    "title": "Ratification Poll for Monetalis - Arrow Andalusian (MIP89) - November 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 909,
+    "title": "Budget Ratification Poll for Modify the Sustainable Ecosystem Scaling Core Unit DAI Budget, SES-001 (MIP40c3-SP87) - November 14, 2022",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 904,
+    "title": "Budget Ratification Poll for Modify Sidestream Auction Services Core Unit DAI Budget, SAS-001 (MIP40c3-SP85) - November 14, 2022",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 905,
+    "title": "Budget Ratification Poll for Modify TechOps Core Unit DAI Budget, TECH-001 (MIP40c3-SP86) - November 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 907,
+    "title": "Ratification Poll for Monetalis - Redwood Friesian (MIP88) - November 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 897,
+    "title": "Ratification Poll for Immunefi Security Core Unit (IS-001) Facilitator Onboarding (MIP41c4-SP38) - November 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 898,
+    "title": "Budget Ratification Poll for Modify Development and UX Core Unit (DUX-001) Budget (MIP40c3-SP82) - November 14, 2022",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 899,
+    "title": "Ratification Poll for CoinShares Active Treasury Management (MIP86) - November 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 900,
+    "title": "Ratification Poll for OUSD Decentralized Rewards (MIP87) - November 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 901,
+    "title": "Ratification Poll for Modify Immunefi Security Core Unit (IS-001) Mandate (MIP39c2-SP38) - November 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 902,
+    "title": "Budget Ratification Poll for Modify Immunefi Security (IS-001) Budget (MIP40c3-SP83) - November 14, 2022",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 903,
+    "title": "Budget Ratification Poll for Modify Governance Communications Core Unit DAI Budget, COM-001 (MIP40c3-SP84) - November 14, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 914,
+    "title": "DAI Savings Rate Adjustment - November 28, 2022",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 915,
+    "title": "PPG - Open Market Committee Proposal - November 28, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 916,
+    "title": "Undertake Necessary Risk and Legal Assessments to Increase the NS-DROP Debt Ceiling to 50 Million DAI - November 28, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 917,
+    "title": "Ratification Poll for Pioneer DeFi-focused Language Dataset for the Benefit of Risk Modelling & Governance Communication (MIP55c3-SP11) - December 12, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 918,
+    "title": "Governance Communications Core Unit (COM-001) Funding Request - December 12, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 919,
+    "title": "Sidestream Auction Services Core Unit (SAS-001) Funding Request - December 12, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 920,
+    "title": "Dai Foundation Board Member Election Poll - December 12, 2022",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 921,
+    "title": "Change of Ownership of the Ambassador's Program Multi-Sig - December 12, 2022",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 923,
+    "title": "Confirm Trial Deployment of DssKiln - January 9, 2023",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 922,
+    "title": "PPG - Open Market Committee Proposal - January 9, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 924,
+    "title": "Approve One-time MKR Distribution to Correct CES-001 Incentive Program Shortfall - January 9, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 942,
+    "title": "Adjust the GUSD PSM Debt Ceiling - January 16, 2023",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 941,
+    "title": "Decrease GUSD PSM Fee Out (tout) - January 16, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 931,
+    "title": "Ratification Poll for Core Unit Offboarding (COM-001) (MIP39c3-SP7) - January 9, 2023",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 933,
+    "title": "Ratification Poll for Protocol DAI Transfer to Fund IS-001 from Dec 2022 to May 2023 (MIP14c2-SP2) - January 9, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 935,
+    "title": "Ratification Poll for Special Purpose Fund for developing Proof-of-Performance for Viridian Cluster (MIP55c3-SP13) - January 9, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 939,
+    "title": "Ratification Poll for Defense Fund (MIP55c3-SP14) - January 9, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 930,
+    "title": "Ratification Poll for Remove MIP14c4 (Protocol DAI Transfer Ceiling) (MIP4c2-SP32) - January 9, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 928,
+    "title": "Ratification Poll for MIP14 Repeal (MIP4c4-SP2) - January 9, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 926,
+    "title": "Ratification Poll for Amend MIP51 to Remove MIP51c4 (Calendar Exceptions) (MIP4c2-SP28) - January 9, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 925,
+    "title": "Ratification Poll for Amend MIP61 to tighten up Recognized Delegate Participation Metrics (MIP4c2-SP29) - January 9, 2023",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 929,
+    "title": "Ratification Poll for Obsolete MIP Removal (MIP23, MIP28) (MIP4c4-SP3) - January 9, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 932,
+    "title": "Ratification Poll for Requesting Protocol DAI Transfer to fund TechOps CU for February 2023 (MIP14c2-SP1) - January 9, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 934,
+    "title": "Ratification Poll for Commercial Risk and Legal Domain Work to Support SF-001 Expanded Mandate Related to RWAs (MIP55c3-SP12) - January 9, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 936,
+    "title": "Ratification Poll for Onboard-Amend Keeper Network - Chainlink Automation (MIP63c4-SP5) - January 9, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 937,
+    "title": "Ratification Poll for Declaration of Intent to Develop a Comprehensive On-chain Monitoring Solution for RWA Vaults (MIP13c3-SP13) - January 9, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 938,
+    "title": "Ratification Poll for Onboard PSM USDC to Yearn to earn Yield (MIP92) - January 9, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 940,
+    "title": "Ratification Poll for MIP63 Maker Keeper Network Amendment (MIP4c2-SP31) - January 9, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 943,
+    "title": "Adjust the Debt Floor (dust) - January 23, 2023",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 944,
+    "title": "Offboarding Parameters for USDC-A, USDP-A, and GUSD-A - January 23, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 945,
+    "title": "Short Ratification Poll for Requesting Protocol DAI Transfer to Fund Endgame Information Portal (MIP14c2-SP3) - January 30, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 946,
+    "title": "Update the Multisig Managing the Velodrome NFT - January 6, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 947,
+    "title": "PPG - Open Market Committee Proposal - February 6, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 953,
+    "title": "Ratification Poll for Restart a daily $100 Micro-Burn of MKR in Show of Good Faith to MKR Holders (MIP74c1-SP1) - February 13, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 954,
+    "title": "Audit and Review Work for Phoenix Labs - February 20, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 955,
+    "title": "Engineering Resource for Phoenix Labs - February 20, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 952,
+    "title": "Ratification Poll for $100M of Cogent Bank Loan Participations (MIP95) - February 13, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 949,
+    "title": "Ratification Poll - Declaration of Intent - Implement a Feature to Refund People who Lost Money Sending Dai to the Dai Contract Address (MIP13c3-SP14) - February 13, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 950,
+    "title": "Ratification Poll for Amend MIP62 to Allow for Changing Communication Responsibilities (MIP4c2-SP33) - February 13, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 951,
+    "title": "Ratification Poll for Amend Interim Facilitator Appointment Process (MIP4c2-SP30) - February 13, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 956,
+    "title": "PPG - Open Market Committee Proposal - February 27, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 958,
+    "title": "Decrease the RETH-A Dust Parameter - March 6, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 957,
+    "title": "Short Ratification Poll for Phoenix Labs Initial Funding (MIP55c3-SP15) - March 6, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 979,
+    "title": "Return Excess MIP65 Funds to Surplus Buffer - March 13, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 980,
+    "title": "Increase the MIP65 (RWA007-A) Debt Ceiling - March 13, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 981,
+    "title": "Remove the DC-IAM from MIP65 (RWA007-A) - March 13, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 977,
+    "title": "Short Ratification Poll for Vault Setting Amendment Subproposal (MIP92c5-SP1) - March 13, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 983,
+    "title": "Short Ratification Poll for RWA Foundation Broker Onboarding & Expensing for Professional Services (MIP58c4-SP1) - March 20, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 982,
+    "title": "PSM Parameter Normalization - March 20, 2023",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 975,
+    "title": "Budget Ratification Poll for Modifying Strategic Finance Core Unit Budget, SF-001 (MIP40c3-SP93) - March 13, 2023",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 978,
+    "title": "Budget Ratification Poll for Modifying Sidestream Auction Services Core Unit Budget (SAS-001) (MIP40c3-SP95) - March 13, 2023",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 976,
+    "title": "Ratification Poll for Modify Data Insights Core Unit Budget (DIN-001) (MIP40c3-SP96) - March 13, 2023",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 960,
+    "title": "Ratification Poll for the Constitution MIP Set - March 13, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 961,
+    "title": "Ratification Poll for Onboarding Retro as CES-001 Facilitator (MIP41c4-SP40) - March 13, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 962,
+    "title": "Ratification Poll for Phoenix Labs - Spark Lend Launch (SPF) (MIP55c3-SP16) - March 13, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 963,
+    "title": "Ratification Poll for D3M to Spark Lend (MIP116) - March 13, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 964,
+    "title": "Ratification Poll for Expand Facilitator Definition to Allow Entities (MIP4c2-SP34) - March 13, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 965,
+    "title": "Ratification Poll for Risk Facilitator Onboarding (RISK-001) (MIP41c4-SP41) - March 13, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 966,
+    "title": "Ratification Poll for Protocol Engineering Facilitator Onboarding (MIP41c4-SP42) - March 13, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 967,
+    "title": "Ratification Poll for Starknet CU Budget Extension (SNE-001) (MIP14c2-SP4) - March 13, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 968,
+    "title": "Ratification Poll for Requesting Protocol DAI Transfer to fund TechOps CU for March 2023 (MIP14c2-SP5) - March 13, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 969,
+    "title": "Ratification Poll for Modifying Sidestream Auction Services Core Unit Mandate - SAS-001 (MIP39c2-SP39) - March 13, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 970,
+    "title": "Budget Ratification Poll for TechOps Core Unit DAI Budget (MIP40c3-SP88) - March 13, 2023",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 971,
+    "title": "Ratification Poll for Modify Core Unit Budget (DECO-001) (MIP40c3-SP89) - March 13, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 972,
+    "title": "Budget Ratification Poll for GovAlpha Core Unit DAI Budget 2023-2024 (MIP40c3-SP90) - March 13, 2023",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 973,
+    "title": "Budget Ratification Poll for GovAlpha Core Unit MKR Budget Q2 2023 (MIP40c3-SP91) - March 13, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 974,
+    "title": "Ratification Poll for Modify Risk Core Unit Budget (RISK-001) (MIP40c3-SP92) - March 13, 2023",
+    "type": "rank-free",
+    "tags": []
+  },
+  {
+    "pollId": 984,
+    "title": "Increase the GSM Delay to 48 Hours - March 27, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 985,
+    "title": "Onboard dewiz as an Incubating Ecosystem Actor - March 27, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 986,
+    "title": "Onboard Phoenix Labs as an Incubating Ecosystem Actor - March 27, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 987,
+    "title": "Onboard Sidestream as an Incubating Ecosystem Actor - March 27, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 988,
+    "title": "Onboard Viridian Protector Advisory Company as an Incubating Ecosystem Actor - March 27, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 990,
+    "title": "Offboarding Parameters Proposal - April 3, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 989,
+    "title": "Decentralized Collateral Scope Parameter Changes - Add Exemptions to the Benchmark Yield Requirement - April 3, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 991,
+    "title": "Arbitration Scope Clarification Edits - April 3, 2023",
+    "type": "single-choice",
+    "tags": []
+  }
+]
