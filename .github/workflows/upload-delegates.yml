@@ -1,5 +1,6 @@
+name: Upload DGC Member details
+
 on:
-  workflow_call:
   push:
     branches:
       - master
