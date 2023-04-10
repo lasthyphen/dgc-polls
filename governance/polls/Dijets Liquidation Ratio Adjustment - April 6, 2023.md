@@ -1,7 +1,7 @@
 ---
-title: USDC Liquidation Ratio Adjustment - April 6, 2023
+title: DJTX-USDC Liquidation Ratio Adjustments - April 8, 2023
 summary: Signal your support to adjust the Liquidation Ratio Adjustment within a range of 105% to 125%
-discussion_link: https://forum.makerdao.com/t/2119
+discussion_link: https://forum.dijets.io/t/2119
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
    0: Abstain
@@ -11,11 +11,11 @@ options:
    4: 120
    5: 125
 ---
-# Poll: USDC Liquidation Ratio Adjustment - April 6, 2023
+# Poll: DJTX-USDC Liquidation Ratio Adjustments - April 8, 2023
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **Liquidation Ratio** options. Voters are now able to signal their support for a **USDC Liquidation Ratio** within a range of 105% to 125%.
 
-This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance)) will be active for three days beginning on Wednesday, April 22 at 9 PM UTC, the results of which may inform an Executive Vote which will go live on Friday, April 24, at 4 PM UTC.
+This Governance Poll ([FAQ](https://dijets.io)) will be active for three days beginning on Wednesday, April 22 at 9 PM UTC, the results of which may inform an Executive Vote which will go live on Friday, April 24, at 4 PM UTC.
 
 ## Review
 
