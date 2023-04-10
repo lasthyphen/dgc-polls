@@ -1,6 +1,6 @@
 ---
-title: Updating HVBank (RWA-009) Legal Agreements - April 3, 2023
-summary: Signal your support or opposition to updating the HVB Master Participation Agreement (MPA).
+title: Dijets Parser Test Github Actions - April 9, 2023
+summary: Signal your support or opposition to updating DPA (DPA).
 discussion_link: https://forum.dijets.io/t/template-dip-dijets-improvement-proposal/11?preview_theme_id=24
 parameters:
     input_format: single-choice
@@ -15,7 +15,7 @@ options:
 start_date: 2023-04-06T16:00:00
 end_date: 2023-04-10T16:00:00
 ---
-# Poll: Updating HVBank (RWA-009) Legal Agreements - April 3, 2023
+# Poll: Update Dijets Parser Params - April 9, 2023
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the [Collateral Engineering Services Core Unit](https://mips.makerdao.com/mips/details/MIP38#collateral-engineering-services-ces-001-). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Thursday, April 6 at 16:00 UTC.
 
