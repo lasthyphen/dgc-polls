@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] DIP0 - Dijets Improvement Proposal Framework
-summary: In order for DIPs to be functional they need to comply with a basic standard outlining their internal structure and external dependencies. This standard is described in DIP0, the Genesis Proposal for Dijets Improvement Proposal Framework.
+summary: In order for DIPs to be functional they need to comply with a basic standard outlining their internal structure and external dependencies. This standard is described in DIP0, as the Genesis Proposal for Dijets Improvement Proposal Framework. DIP0 provides the necessary tools, such as DIP templates, amendment processes & dependencies along with descriptions of the core modules, statuses & DIP lifecycle.
 date: 2023-04-22T00:00:00.000Z
 address: "0xDF4F93454CbfC864A8f045Bd22566824360042B7"
 
