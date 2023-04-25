@@ -33,6 +33,22 @@
       "cuMember": false
     },
     {
+      "voteDelegateAddress": "0x8eCe1010fE79D5733eAA8bF90712Cc385Db74DD6",
+      "profile": {
+        "name": "Pawel Burdzy",
+        "description": "# Mr. Pawel Burdzy\n\n### Key Info\n\nDelegate Address: 0x9972d1dfd45087f5e6d7a7152505ad56dbef9edc  \nDelegate Contract Address: 0x8eCe1010fE79D5733eAA8bF90712Cc385Db74DD6  \nForum: @pawel  \nQowalts: https://redirect.dijets.io/#/@spinder23689:dijets.org  \nTwitter: @pawel\nExternal Website: https://dijets.io/council  \n\n### DGC Member Statement\n\n\n#### Brief Introduction\n\n\n#### Our Beliefs as a Delegate\n\n\n#### Why Should DJTX Holders select you for delegation?\n\n\n### Conflicts of Interest\n\n\nI have read and understood the [DGC Member's Manifesto](https://dijets.io/manifesto) and agree to carefully abide by all the points entailed.\n\n### Waiver of liability\n\nBy delegating to DGC Member Pawel Burdzy, you acknowledge and agree that DGC Members participate in Dijets Governance on a \"Best Efforts Basis\" and will not be liable for any form of damages related to participation in accordance to Dijets Governance and DIPs Framework.\n",
+        "externalProfileURL": null
+      },
+      "image": "QmZCXdLkc9dD9vHMUSwoHWdvdEgK9SbGxB3WD1iLAXLsoW",
+      "metrics": {
+        "combinedParticipation": "00.00%",
+        "pollParticipation": "00.00%",
+        "executiveParticipation": "00.00%",
+        "communication": "00.00%"
+      },
+      "cuMember": false
+    },
+    {
       "voteDelegateAddress": "0xEb82f4e01d665f2ffBBCc726A1a2FbDD23674DFD",
       "profile": {
         "name": "Daniel Fitzhenry",
