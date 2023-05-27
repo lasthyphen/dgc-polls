@@ -3,30 +3,21 @@ title: DIP2 defines the process for the amendment and removal of an accepted DIP
 summary: DIP2 introduces a standard Amendment and Removal Process for both the arbitrary changes and the removal of DIPs.
 discussion_link: https://forum.dijets.io/t/a-process-summary-dip-for-making-changes-or-completely-removing-an-already-accepted-dip/30
 parameters:
-    input_format:
-        type: single-choice
-        abstain: [0]
+    input_format: single-choice
     victory_conditions:
-        - {
-            type: 'and',
-            conditions: [
-                { type : plurality },
-                { type : comparison, comparator : '>=', value: 10000 }
-            ]
-        }
-        - {type : default, value : 2 }````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+        - { type : plurality }
     result_display: single-vote-breakdown
 version: v2.0.0
 options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2023-05-25T16:00:00
-end_date: 2023-06-02T16:00:00
+start_date: 2023-05-26T16:00:00
+end_date: 2023-06-03T16:00:00
 ---
-# A Process design document describing the amendment and removal parameters for accepted DIPs - May 25, 2023
+# Poll: Ratification Poll for DIP2 which defines the process for the amendment and removal of an accepted DIP - May 26, 2023
 
-Dijets Core Team acting as interim Governance Arbiter has placed an approval poll in Dijets Voting System for [DIP2](https://dips.dijets.io/dips/details/DIP2). This Governance Poll will be active for eight days beginning on Thursday, May 25 at 16:00 UTC.
+Dijets Core Team acting as interim Governance Arbiter has placed an approval poll in Dijets Voting System for [DIP2](https://dips.dijets.io/dips/details/DIP2). This Governance Poll will be active for eight days beginning on Friday, May 26 at 16:00 UTC.
 
 **This is a binary vote.**
 - **Members may vote for a single option.**
@@ -50,7 +41,6 @@ Please review the links below to inform your position on this proposal before vo
 **If the votes for the 'Yes' option exceed the votes for the 'No' option PLUS the votes for the 'Yes' option exceed the minimum set voting weight of 10000 HAL tokens, then the proposal will be marked as Accepted:**
 
 **In the event of the proposal not reaching the minimum set voting weight of 10000 HAL tokens or if the votes for the 'No" option exceed the votes for the 'Yes' option then the proposal will be marked as rejected.**
-dw---
 
 ## Resources
 
