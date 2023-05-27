@@ -30,9 +30,11 @@ DGC Members may vote in this formalisation poll to express support or opposition
 
 A brief summary of this proposal is as follows:
 
-*DIP2 provides a process by which existing accepted DIPs can be amended or removed and replaced with a canonical versioning system. DIP Amendments that preserve the DIP number can be performed to modify any aspect of an existing DIP, including the Genesis DIP (DIP0). There are no restrictions on how an existing DIP can be amended.
-DIP2 proposes the ability to amend multiple DIPs submitted as a single subproposal. DIP2 also enables the complete removal of one or more DIPs that are inactive or obsolete. Similar to the amendments process, multiple DIPs may be removed in a single subproposal for removal. 
+**DIP2 provides a process by which existing accepted DIPs can be amended or removed and replaced with a canonical versioning system. DIP Amendments that preserve the DIP number can be performed to modify any aspect of an existing DIP, including the Genesis DIP (DIP0). There are no restrictions on how an existing DIP can be amended.
+DIP2 proposes the ability to amend multiple DIPs submitted as a single subproposal. DIP2 also enables the complete removal of one or more DIPs that are inactive or obsolete. Similar to the amendments process, multiple DIPs may be removed in a single subproposal for removal.**
+
 Please review the links below to inform your position on this proposal before voting.
+
 * [DIPs Directory Link](https://dips.dijets.io/dips/details/DIP2)
 * [Proposal Discussion Thread](https://forum.dijets.io/t/a-process-summary-dip-for-making-changes-or-completely-removing-an-already-accepted-dip/30)
 
