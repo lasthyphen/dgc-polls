@@ -4,7 +4,7 @@
     "shortname": "High Impact",
     "longname": "High Impact",
     "recommend_ui": true,
-    "description": "Polls that GovAlpha has judged high-impact",
+    "description": "Polls that Dijets Governance Council has judged high-impact",
     "related_link": "https://forum.dijets.io/",
     "precedence": 1
   },
