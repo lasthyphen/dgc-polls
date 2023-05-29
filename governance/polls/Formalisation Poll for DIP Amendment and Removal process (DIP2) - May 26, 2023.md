@@ -12,7 +12,7 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2023-05-26T16:00:00
+start_date: 2023-05-28T16:00:00
 end_date: 2023-06-03T16:00:00
 ---
 # Poll: Ratification Poll for DIP2 which defines the process for the amendment and removal of an accepted DIP - May 26, 2023
