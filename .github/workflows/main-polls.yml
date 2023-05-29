@@ -16,7 +16,7 @@ jobs:
           ref: ${{ github.event.pull_request.head.ref }}
       - name: Upload
         id: upload
-        uses: lasthyphen/polling-db-action@v1.1.2
+        uses: lasthyphen/dijets-polling-db@v1.1.1
         with:
           network: 'dijets'
           tags-file: 'governance/polls/meta/poll-tags.json'
