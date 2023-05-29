@@ -85,6 +85,15 @@
     "related_link": "https://core-council.dijets.io",
     "precedence": 10
   },
+    {
+    "id": "dgc",
+    "shortname": "Council",
+    "longname": "Dijets Governance Council",
+    "recommend_ui": true,
+    "description": "Polls relating to DGC Members",
+    "related_link": "https://dijets.io/council",
+    "precedence": 11
+  },
   {
     "id": "subcommittees",
     "shortname": "SUBS",
@@ -92,7 +101,7 @@
     "recommend_ui": true,
     "description": "Proposals made related to DGC Sub Committees",
     "related_link": "https://forum.dijets.io/",
-    "precedence": 11
+    "precedence": 12
   },
   {
     "id": "dsm",
@@ -101,7 +110,7 @@
     "recommend_ui": true,
     "description": "Polls relating to changes or onboarding of Dijets Stability Modules",
     "related_link": "https://dmms.dijets.io",
-    "precedence": 12
+    "precedence": 13
   },
   {
     "id": "misc-funding",
@@ -109,7 +118,7 @@
     "longname": "Misc Funding",
     "recommend_ui": true,
     "description": "Polls related to miscellaneous funding proposals",
-    "precedence": 13
+    "precedence": 14
   },
   {
     "id": "misc-governance",
@@ -117,7 +126,7 @@
     "longname": "Misc Governance",
     "recommend_ui": true,
     "description": "Polls related to Miscellaneous Governance",
-    "precedence": 14
+    "precedence": 15
   },
   {
     "id": "ratification",
@@ -126,6 +135,6 @@
     "recommend_ui": true,
     "description": "Ratification Polls as defined in DIP1",
     "related_link": "https://dips.dijets.io/dips/details/DIP1#dip1m2-polls",
-    "precedence": 15
+    "precedence": 16
   }
 ]
