@@ -14,23 +14,25 @@ Qowalts: https://redirect.dijets.io/#/@spinder23689:dijets.org
 Twitter: @pawel
 External Website: https://dijets.io/council  
 
+### Brief Introduction
+
+
 ### DGC Member Statement
 
 
-#### Brief Introduction
-
-
-#### Our Beliefs as a Delegate
-
-
-#### Why Should DJTX Holders select you for delegation?
+### Why Should DJTX Holders select you for delegation?
 
 
 ### Conflicts of Interest
 
+I confirm that I do not participate in any other organisation's voting process or DAO governance activities that would represent a potential conflict of interest.
 
-I have read and understood the [DGC Member's Manifesto](https://dijets.io/manifesto) and agree to carefully abide by all the points entailed.
+### DGC Member Declaration
 
-### Waiver of liability
+As Dijets Council Member I will;
 
-By delegating to DGC Member Pawel Burdzy, you acknowledge and agree that DGC Members participate in Dijets Governance on a "Best Efforts Basis" and will not be liable for any form of damages related to participation in accordance to Dijets Governance and DIPs Framework.
+ - operate and vote on proposals that I believe will be in the best interest of Dijets and DJTX Holders.
+ - professionally and unbiasedly review each proposal prior to the submission of my vote.
+ - within reason - be accessible to the community to answer questions and discuss my voting rationale when required.
+
+I have read, understood and signed the [DGC Member's Manifesto](https://dijets.io/manifesto) and agree to carefully abide by the points entailed in it.
