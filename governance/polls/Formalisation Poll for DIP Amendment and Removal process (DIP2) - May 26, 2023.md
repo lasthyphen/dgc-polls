@@ -1,5 +1,5 @@
 ---
-title: DIP2 defines the process for the amendment and removal of an accepted DIP - May 26, 2023
+title: DIP2 defines the process for the amendment and removal of an accepted DIP - May 28, 2023
 summary: DIP2 introduces a standard Amendment and Removal Process for both the arbitrary changes and the removal of DIPs.
 discussion_link: https://forum.dijets.io/t/a-process-summary-dip-for-making-changes-or-completely-removing-an-already-accepted-dip/30
 parameters:
@@ -15,9 +15,9 @@ options:
 start_date: 2023-05-28T16:00:00
 end_date: 2023-06-03T16:00:00
 ---
-# Poll: Ratification Poll for DIP2 which defines the process for the amendment and removal of an accepted DIP - May 26, 2023
+# Poll: Ratification Poll for DIP2 which defines the process for the amendment and removal of an accepted DIP - May 28, 2023
 
-Dijets Core Team acting as interim Governance Arbiter has placed an approval poll in Dijets Voting System for [DIP2](https://dips.dijets.io/dips/details/DIP2). This Governance Poll will be active for eight days beginning on Friday, May 26 at 16:00 UTC.
+Dijets Core Team acting as interim Governance Arbiter has placed an approval poll in Dijets Voting System for [DIP2](https://dips.dijets.io/dips/details/DIP2). This Governance Poll will be active for eight days beginning on Sunday, May 28 at 16:00 UTC.
 
 **This is a binary vote.**
 - **Members may vote for a single option.**
