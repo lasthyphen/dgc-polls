@@ -77,21 +77,21 @@
     "precedence": 9
   },
   {
+    "id": "dgc-members",
+    "shortname": "DGC Members",
+    "longname": "Dijets Governance Council",
+    "recommend_ui": true,
+    "description": "Polls relating to DGC Members",
+    "related_link": "https://dijets.io/council",
+    "precedence": 10
+  },
+  {
     "id": "delegates",
     "shortname": "Delegates",
     "longname": "Delegates",
     "recommend_ui": true,
     "description": "Polls relating to DGC Recognised Delegates",
     "related_link": "https://core-council.dijets.io",
-    "precedence": 10
-  },
-    {
-    "id": "dgc",
-    "shortname": "Council",
-    "longname": "Dijets Governance Council",
-    "recommend_ui": true,
-    "description": "Polls relating to DGC Members",
-    "related_link": "https://dijets.io/council",
     "precedence": 11
   },
   {
