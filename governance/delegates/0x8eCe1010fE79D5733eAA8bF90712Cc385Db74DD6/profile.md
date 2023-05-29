@@ -20,9 +20,6 @@ External Website: https://dijets.io/council
 ### DGC Member Statement
 
 
-### Why Should DJTX Holders select you for delegation?
-
-
 ### Conflicts of Interest
 
 I confirm that I do not participate in any other organisation's voting process or DAO governance activities that would represent a potential conflict of interest.
