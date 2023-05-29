@@ -19,7 +19,7 @@ jobs:
         id: upload
         uses: makerdao-dux/aggregate-polls-action@v1.1.2
         with:
-          network: 'mainnet'
+          network: 'dijets'
           tags-file: 'governance/polls/meta/poll-tags.json'
           output-file: 'governance/polls/meta/polls.json'
       - name: Update pull request with polls changes 
