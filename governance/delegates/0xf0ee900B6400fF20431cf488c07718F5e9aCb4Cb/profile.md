@@ -7,12 +7,12 @@ external_profile_url:
 
 ### Key Info
 
-Delegate Address: 0x9972d1dfd45087f5e6d7a7152505ad56dbef9edc  
-Delegate Contract Address: 0xf0ee900B6400fF20431cf488c07718F5e9aCb4Cb  
-Forum: DijetsAlisha  
-Qowalts: https://redirect.dijets.io/#/@arama:dijets.org  
-Github: @DijetsAlisha  
-External Website: https://dijets.io/council  
+**DGC Member Address:** 0x9972d1dfd45087f5e6d7a7152505ad56dbef9edc  
+**Delegate Contract Address:** 0xf0ee900B6400fF20431cf488c07718F5e9aCb4Cb  
+**Forum:** @DijetsAlisha  
+**Qowalts:** [arama](https://redirect.dijets.io/#/@arama:dijets.org)  
+**Github:** @DijetsAlisha  
+**Website:** https://dijets.io/council  
 
 ### Brief Introduction
 
