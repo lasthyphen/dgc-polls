@@ -7,12 +7,12 @@ external_profile_url:
 
 ### Key Info
 
-Delegate Address: 0x2f6d8e48fe496a5bc2dbcae30735c8e4ab34c6e5  
-Delegate Contract Address: 0x2f6d8e48fe496a5bc2dbcae30735c8e4ab34c6e5  
-Forum: @pawel  
-Qowalts: https://redirect.dijets.io/#/@spinder23689:dijets.org  
+**DGC Member Address:** 0x2f6d8e48fe496a5bc2dbcae30735c8e4ab34c6e5  
+**Delegate Contract Address:** 0x2f6d8e48fe496a5bc2dbcae30735c8e4ab34c6e5  
+**Forum:** @pawel  
+**Qowalts:** https://redirect.dijets.io/#/@spinder23689:dijets.org  
 Twitter: 
-External Website: https://dijets.io/council  
+**External Website:** https://dijets.io/council  
 
 ### DGC Member Statement
 
