@@ -1,5 +1,5 @@
 ---
-title: DIP0m11-SP1 onboards Member Alisha Ramazannezhad as DIP Editor - May 24, 2023
+title: DIP0m11-SP1 onboards Member Alisha Ramazannezhad as DIP Editor - May 31, 2023
 summary: This Proposal onboards Alisha Ramazannezhad as DIP Editor to enforce the administrative and editorial aspects of DIPs.
 discussion_link: https://forum.dijets.io/t/onboarding-dgc-member-alisha-ramazannezhad-as-dip-editor-under-dip0m11-sp1/28
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
@@ -8,11 +8,11 @@ options:
    1: Yes
    2: No
 ---
-# Poll: DIP0m11-SP1 onboards Member Alisha Ramazannezhad as DIP Editor - May 24, 2023
+# Poll: DIP0m11-SP1 onboards Member Alisha Ramazannezhad as DIP Editor - May 31, 2023
 
-Dijets Core Team acting as interim Governance Arbiter have placed an approval poll into Dijets Voting System for the appointment of DIP Editor as described in [DIPs Framework](https://github.com/Dijets-Inc/dips/blob/master/DIP0/dip0.md#dip0m9-dip-editor-role). This Governance Poll will be active for seven days beginning on Wednesday, May 24 at 16:00 UTC. Note that the DGC Members do not require a CAP position before voting on this approval poll.
+Dijets Core Team acting as interim Governance Arbiter have placed an approval poll into Dijets Voting System for the appointment of DGC Member Alisha Ramazannezhad as DIP Editor. The sub-proposal DIP0m11-SP1 is in line with the process module [DIP0m11](https://dips.dijets.io/dips/details/DIP0#dip0m11-core-personnel-onboarding) of the [DIPs Framework](https://dips.dijets.io/dips/details/DIP0) for core personnel onboarding. This Governance Poll will be active for seven days beginning on Wednesday, May 31 at 16:00 UTC. Note that the DGC Members do not require a CAP before voting on this approval poll.
 
-Procuring a CAP will become a mandatory step to undergo for DGC members before each governance cycle begins. CAPs and the Governance Cycle will come into effect as soon as the program has the required core personnel onboarded and it has had some time to mature.
+Procuring a CAP will be mandatory for DGC members before each governance cycle begins. CAPs and the Governance Cycle will come into effect as soon as the program has had the required core personnel onboarded and it has had some time to mature.
 
 **This is a binary vote.**
 - **Members may vote for a single option.**
@@ -35,17 +35,21 @@ Please review the links below to inform your position on this proposal before vo
 
 ## Outcomes
 
-**If the votes for the 'Yes' option exceed the votes for the 'No' option PLUS the votes for the 'Yes' option exceed the minimum set voting weight of 1000 HAL tokens, then the following outcomes will occur:**
-* Dijets Governance is currently undergoing the initial setup processes with DIP0m11-SP1 being the very first proposal for core personnel onboarding. In determination of the program's infancy and DIP0m11-SP1 implementation Dijets Core Team will mark the proposal **Accepted** and ensure its passage to the accepted DIPs directory signalling Member Alisha Ramazannezhad as the new DIP Editor. The DIP editor will subsequently become responsible for labelling the proposal/sub-proposal numbers and marking them as accepted or rejected for all future DIPs.
-* Work required to implement all future proposals will be relayed by the DIP Editor to the core team.
+**If the votes for the 'YES' option exceed the votes for the 'NO' option then the following outcomes will occur:**
+ - The Governance Arbiter will mark the proposal accepted (Only dip editors can mark proposals accepted or rejected but this being the proposal to onboard the very first editor, Governance Arbiter will be tasked with marking proposals in the interim).
+ - Member Alisha will take on the DIP Editor responsibilities and be granted PR and Merge access to the relevant organisational github repositories.
+ - The DIP Editor will confirm the proposal's passage to the [DIPs Directory](https://dips.dijets.io) on Friday, June 8 by submitting a pull request with her particulars.
+ - The DIP Editor will review and merge the pull request into the master repo signalling the conclusion of the appointment implementation process under [DIP0m11-SP](https://github.com/Dijets-Inc/dips/tree/master/DIP0/DIP0m11-Subproposals).
 
-**In the event of the proposal not reaching the minimum set voting weight of 1000 HAL tokens or if the votes for the 'No" option exceed the votes for the 'Yes' option then the proposal will be marked as rejected.**
-
+**If the votes for the 'NO' option exceed the votes for the 'YES' option then the following outcomes will occur:**
+ - The Governance Arbiter will mark the proposal rejected.
+ - The Council will re-submit a proposal under DIP0m11-SP for core personnel onboarding.
+ - Proposal begins its passage towards voting.
 ---
 
 ## Resources
 
-[DIP1: Dijets Monthly Governance Cycle](https://dips.dijets.io/dips/details/DIP1) describes different types of proposal polls and process scheduling. Note that the Governance Cycle will come into effect immediately after the Governance Program's initial setup phase has completed.
+[DIP1: Dijets Monthly Governance Cycle](https://dips.dijets.io/dips/details/DIP1) describes different types of proposals and related polls and process scheduling. Note that the Governance Cycle will come into effect immediately after the Governance Program's initial setup phase has completed.
 
 DGC Members wishing to learn more about Dijets Governance Model, Voting Mechanism/Guides, HAL assessments and scoring processes can visit the  [Councillor's Hub](https://core-council.dijets.io).
 
