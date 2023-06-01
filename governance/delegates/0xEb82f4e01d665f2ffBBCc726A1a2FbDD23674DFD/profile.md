@@ -7,12 +7,11 @@ external_profile_url:
 
 ### Key Info
 
-Delegate Address: 0xC919D9377F0ee2db747c4044ca0655dE3c419811  
-Delegate Contract Address: 0xEb82f4e01d665f2ffBBCc726A1a2FbDD23674DFD  
-Forum: @daniel  
-DJT Telegram: https://t.me/OfficialDijets  
-Twitter: @OfficialDijets  
-External Website: https://dijets.io/council  
+**DGC Member Address:** 0xC919D9377F0ee2db747c4044ca0655dE3c419811  
+**Delegate Contract Address:** 0xEb82f4e01d665f2ffBBCc726A1a2FbDD23674DFD  
+**Forum:** @dfitz86  
+**Qowalts:** [daniel:dijets.org](https://redirect.dijets.io/#/#daniel:dijets.org)  
+**External Website:** https://dijets.io/council  
 
 ### Brief Introduction
 
