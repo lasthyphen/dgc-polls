@@ -1,5 +1,5 @@
 ---
-title: Approval Poll for the Monthly Governance Cycle - May 24, 2023
+title: Approval Poll for the Monthly Governance Cycle - May 31, 2023
 summary: DIP1 introduces a standardised Monthly Governance Cycle by which DGC Members can participate in governance without any time constraints.
 discussion_link: https://forum.dijets.io/t/dgc-governance-schedule-monthly-governance-cycle/29
 parameters:
@@ -21,12 +21,12 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2023-05-24T16:00:00
-end_date: 2023-05-31T16:00:00
+start_date: 2023-05-31T16:00:00
+end_date: 2023-06-06T16:00:00
 ---
-# Approval Poll for DIP1 standardising the Monthly Governance Cycle - May 24, 2023
+# Approval Poll for DIP1 standardising the Monthly Governance Cycle - May 31, 2023
 
-Dijets Core Team acting as interim Governance Arbiter has placed an approval poll in Dijets Voting System for [DIP1](https://dips.dijets.io/dips/details/DIP1). This Governance Poll will be active for seven days beginning on Wednesday, May 24 at 16:00 UTC. Note that the DGC Members do not require a CAP position before voting on this approval poll.
+Dijets Core Team acting as interim Governance Arbiter has placed an approval poll in Dijets Voting System for [DIP1](https://dips.dijets.io/dips/details/DIP1). This Governance Poll will be active for seven days beginning on Wednesday, May 31 at 16:00 UTC. Note that the DGC Members do not require a CAP position before voting on this approval poll.
 
 **This is a binary vote.**
 - **Members may vote for a single option.**
