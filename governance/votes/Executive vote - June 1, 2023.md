@@ -1,11 +1,11 @@
 ---
 title: Template - [Executive Vote] DIP0 - Dijets Improvement Proposal Framework
 summary: In order for DIPs to be functional they need to comply with a basic standard outlining their internal structure and external dependencies. This standard is described in DIP0, as the Genesis Proposal for Dijets Improvement Proposal Framework. DIP0 provides the necessary tools, such as DIP templates, amendment processes & dependencies along with descriptions of the core modules, statuses & DIP lifecycle.
-date: 2023-04-19T00:00:00.000Z
+date: 2023-06-01T00:00:00.000Z
 address: "0xDF4F93454CbfC864A8f045Bd22566824360042B7"
 
 ---
-# [Executive Vote] [Executive Vote] The Genesis DIP - Dijets Improvement Proposal Framework - April 19, 2023
+# [Executive Vote] [Executive Vote] The Genesis DIP - Dijets Improvement Proposal Framework - June 01, 2023
 
 Acting as Dijets Interim Governance Facilitator (until a council appointee assumes the role), the Core Team have submitted a framework proposal DIP0 into the voting system. Since the proposal was submitted under the **_'Founders Mandate'_** category, DGC Members can not vote to accept or reject this proposal. However DGC Members can show their support or dissent by voting on the proposal in order to familiarise themselves with the procedure and for the purpose of HAL scoring metrics. 
 
