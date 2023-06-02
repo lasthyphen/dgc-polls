@@ -1,3 +1,2 @@
-Contains current and historical governance polls and executives used in the governance of the Maker Protocol.
-
-Previously contained a lot of other content which remains in the 'prior-cleanup' branch.
+Contains current and historical proposal polls and mandates for Dijets Governance.
+Also includes an up-to-date list of all currently active DGC Members with other key info including their Vote Delegation contract addresses.
