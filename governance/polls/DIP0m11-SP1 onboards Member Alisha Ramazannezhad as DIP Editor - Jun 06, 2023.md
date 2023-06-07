@@ -1,5 +1,5 @@
 ---
-title: [VOID HAL]Sub-Proposal for Onboarding Member Alisha Ramazannezhad as DIP Editor - Jun 06, 2023[VOID HAL]
+title: (VOID HAL)Sub-Proposal for Onboarding Member Alisha Ramazannezhad as DIP Editor - Jun 06, 2023[VOID HAL]
 summary: DIP0m11-SP1 onboards Member Alisha Ramazannezhad as DIP Editor to enforce the administrative and editorial aspects of the DIPs process and the DIPs framework.
 discussion_link: https://forum.dijets.io/t/onboarding-dgc-member-alisha-ramazannezhad-as-dip-editor-under-dip0m11-sp1/28
 parameters:
