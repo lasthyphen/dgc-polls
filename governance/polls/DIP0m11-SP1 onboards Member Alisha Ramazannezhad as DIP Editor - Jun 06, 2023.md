@@ -22,11 +22,11 @@ options:
    1: Yes
    2: No
 start_date: 2023-06-06T16:00:00
-end_date: 2023-06-06T16:00:00
+end_date: 2023-06-13T16:00:00
 ---
 # Approval Poll for onboarding Alisha Ramazannezhad as DIP Editor under sub-proposal (DIP0m11-SP1) - Jun 06, 2023
 
-Dijets Core Team acting as interim Governance Arbiter have placed an approval poll into Dijets Voting System for the appointment of DIP Editor as described in [DIPs Framework](https://github.com/Dijets-Inc/dips/blob/master/DIP0/dip0.md#dip0m9-dip-editor-role). This Governance Poll will be active for seven days beginning on Wednesday, Jun 06 at 16:00 UTC. Note that the DGC Members do not require a CAP position before voting on this approval poll. Procuring a CAP will become a mandatory step to undergo for DGC members before each governance cycle begins. CAPs and the Governance Cycle will come into effect as soon as the program has the required core personnel onboarded and it has had some time to mature.
+Dijets Core Team acting as interim Governance Arbiter have placed an approval poll into Dijets Voting System for the appointment of DIP Editor as described in [DIPs Framework](https://github.com/Dijets-Inc/dips/blob/master/DIP0/dip0.md#dip0m9-dip-editor-role). This Governance Poll will be active for seven days beginning on Tuesday, Jun 06 at 16:00 UTC. Note that the DGC Members do not require a CAP position before voting on this approval poll. Procuring a CAP will become a mandatory step to undergo for DGC members before each governance cycle begins. CAPs and the Governance Cycle will come into effect as soon as the program has the required core personnel onboarded and it has had some time to mature.
 
 **This is a binary vote.**
 - **Members may vote for a single option.**
